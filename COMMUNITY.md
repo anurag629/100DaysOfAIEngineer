@@ -74,7 +74,7 @@ In **#100daysofaiengineer** channel:
 
 I'm committing to:
 
-✅ 2-4 hours of learning daily
+✅ 6-8 hours of learning daily
 ✅ Daily posts in this channel
 ✅ Building all 7 projects
 ✅ Sharing my code on GitHub

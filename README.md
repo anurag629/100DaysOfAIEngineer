@@ -14,7 +14,7 @@ I didn't spend countless hours researching, curating 150+ blog articles, creatin
 
 **Before you scroll down, answer these questions HONESTLY:**
 
-- [ ] **Can you dedicate 2-4 hours EVERY SINGLE DAY for 100 days?**
+- [ ] **Can you dedicate 6-8 hours EVERY SINGLE DAY for 100 days?**
 - [ ] **Can you code, build projects, and debug errors without giving up?**
 - [ ] **Are you willing to share your learning publicly and hold yourself accountable?**
 - [ ] **Can you handle failure, frustration, and the steep learning curve?**
@@ -39,7 +39,7 @@ I didn't spend countless hours researching, curating 150+ blog articles, creatin
 ### 🎯 THE CHALLENGE - ACCEPT OR GTFO:
 
 #### **I WILL:**
-- [ ] Code for 2-4 hours EVERY DAY for 100 consecutive days (NO EXCEPTIONS)
+- [ ] Code for 6-8 hours EVERY DAY for 100 consecutive days (NO EXCEPTIONS)
 - [ ] Complete ALL coding tasks, exercises, and projects for each day
 - [ ] Share my progress publicly EVERY SINGLE DAY using #100DaysOfAIEngineer
 - [ ] Push my code to GitHub daily (no matter how ugly it is)
@@ -74,7 +74,7 @@ Post this on Twitter/LinkedIn/Instagram:
 I'm committing to #100DaysOfAIEngineer starting TODAY.
 
 100 days. No excuses. No skipping.
-- 2-4 hours daily
+- 6-8 hours daily
 - Public learning
 - Real projects
 - Building in public
@@ -256,7 +256,7 @@ Each day includes:
 - ✅ Python programming knowledge
 - ✅ Basic understanding of programming concepts
 - ✅ Willingness to code daily
-- ✅ 2-4 hours daily commitment
+- ✅ 6-8 hours daily commitment
 
 ---
 

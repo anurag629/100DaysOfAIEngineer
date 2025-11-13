@@ -50,12 +50,12 @@ Before starting, ensure you understand:
 
 ---
 
-## ⏱️ Time Breakdown (2-4 hours total)
+## ⏱️ Time Breakdown (6-8 hours total)
 
-- **Planning & Design:** 60 min
-- **Implementation:** 180-240 min
-- **Testing & Debugging:** 60 min
-- **Documentation:** 30-45 min
+- **Planning & Design:** 150 min
+- **Implementation:** 450-600 min
+- **Testing & Debugging:** 150 min
+- **Documentation:** 75-120 min
 
 *Adjust based on your pace and prior knowledge*
 

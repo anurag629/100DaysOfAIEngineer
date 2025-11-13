@@ -151,7 +151,7 @@ When you find code to use:
 
 ```
 
-1. Set a time limit: 2-4 hours per day, then STOP
+1. Set a time limit: 6-8 hours per day, then STOP
 2. Make it work → Make it clean → Make it fast (in that order)
 3. "Good enough for learning" is the standard, not "perfect"
 4. Post your messy code - that's how you learn faster

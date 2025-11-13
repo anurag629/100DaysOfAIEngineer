@@ -57,7 +57,7 @@ Create `my_progress.md` in your fork:
 ## Commitment
 I commit to:
 
-- [ ] 2-4 hours daily for 100 days
+- [ ] 6-8 hours daily for 100 days
 - [ ] Daily Discord check-ins
 - [ ] Weekly social media posts
 - [ ] All 7 major projects completed

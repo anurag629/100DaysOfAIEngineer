@@ -41,7 +41,7 @@ A structured 100-day curriculum to become a job-ready AI Engineer. It's project-
 
 ### How much time per day?
 
-**Recommended:** 2-4 hours daily
+**Recommended:** 6-8 hours daily
 
 **Minimum to stay on track:** 1.5-2 hours
 

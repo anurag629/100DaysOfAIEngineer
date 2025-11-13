@@ -50,12 +50,12 @@ Before starting, ensure you understand:
 
 ---
 
-## ⏱️ Time Breakdown (2-4 hours total)
+## ⏱️ Time Breakdown (6-8 hours total)
 
-- **Theory & Reading:** 45-60 min
-- **Hands-on Practice:** 90-120 min
-- **Mini Project/Exercises:** 30-45 min
-- **Review & Documentation:** 15-30 min
+- **Theory & Reading:** 120-150 min
+- **Hands-on Practice:** 225-300 min
+- **Mini Project/Exercises:** 75-120 min
+- **Review & Documentation:** 40-75 min
 
 *Adjust based on your pace and prior knowledge*
 

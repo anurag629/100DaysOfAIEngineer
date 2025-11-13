@@ -332,7 +332,7 @@ Update your status or nickname to reflect current state:
 
 **2. Minimum Viable Day**
 
-- Can't do full 2-4 hours? Do 1 hour minimum.
+- Can't do full 6-8 hours? Do 1 hour minimum.
 - Better to do 50% than 0%
 - Quality days can make up for minimal days
 
