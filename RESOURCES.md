@@ -4,6 +4,33 @@ A curated list of the best resources for your 100-day journey.
 
 ---
 
+## 📝 Blog Articles Collection (NEW!)
+
+**🔥 [BLOG_ARTICLES.md](BLOG_ARTICLES.md) - 150+ Curated Blog Posts for Each Topic!**
+
+We've researched and curated **150+ high-quality blog articles** specifically for the 100-day curriculum:
+
+- **Organized by Phase & Topic**: Find articles for exactly what you're learning
+- **2024-2025 Content**: Latest tutorials and best practices
+- **Verified Quality**: Tested tutorials from trusted sources
+- **Code Examples**: All articles include practical implementations
+- **Direct Links**: No searching required, just click and learn
+
+**Topics Covered:**
+- NumPy, Pandas, Data Visualization
+- Classical ML Algorithms
+- Neural Networks & Backpropagation
+- PyTorch & Deep Learning
+- CNNs, Transfer Learning, YOLO
+- NLP, BERT, Transformers
+- LLMs, Fine-tuning, LoRA/QLoRA
+- RAG, LangChain, Vector Databases
+- MLOps, FastAPI, Docker, MLflow
+
+**👉 [Open BLOG_ARTICLES.md](BLOG_ARTICLES.md) to start learning with curated content!**
+
+---
+
 ## 📖 Books
 
 ### Machine Learning Fundamentals
