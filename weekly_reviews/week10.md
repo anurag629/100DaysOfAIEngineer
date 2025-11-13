@@ -29,11 +29,13 @@
 ## 🧪 Knowledge Verification
 
 ```
+
 Q: What are 5 advanced prompt engineering techniques?
 Q: How does LoRA enable efficient fine-tuning?
 Q: What is LangChain and what problems does it solve?
 Q: How do vector databases work?
 Q: When would you use embeddings?
+
 ```
 
 **Score: ___/5**
@@ -45,6 +47,7 @@ Q: When would you use embeddings?
 **Build: LLM-Powered Application with LangChain**
 
 Create an application that:
+
 1. Uses advanced prompting
 2. Implements chains with LangChain
 3. Uses vector database for context
@@ -57,12 +60,14 @@ Create an application that:
 ## 🎯 Confidence Assessment
 
 ```
+
 Prompt Engineering: ___ / 10
 LLM Fine-tuning: ___ / 10
 LangChain: ___ / 10
 Vector Databases: ___ / 10
 
 Week 10 Overall: ___ / 10
+
 ```
 
 ---
@@ -78,6 +83,7 @@ The most in-demand AI skill right now!
 ## 💬 Week 10 Completion Post
 
 ```
+
 ✅ WEEK 10 COMPLETE! LLM mastery unlocked! 🔥
 
 Prompt Engineering + Fine-tuning + LangChain + VectorDB
@@ -91,6 +97,7 @@ Achievements:
 Ready for RAG! 🚀
 
 #100DaysOfAIEngineer #LLMs #LangChain #PromptEngineering #AI
+
 ```
 
 ---

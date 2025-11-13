@@ -15,6 +15,7 @@ All accountability, support, and community interaction happens in the **CODERCOP
 ### **What's in the Discord:**
 
 #### 📢 **#100daysofaiengineer** Channel
+
 - Daily check-ins and progress updates
 - Quick questions and answers
 - Wins and struggles
@@ -22,6 +23,7 @@ All accountability, support, and community interaction happens in the **CODERCOP
 - Real-time community support
 
 #### 💬 **100daysofaiengineer** Forum
+
 - Long-form questions and discussions
 - Project showcases
 - Code reviews
@@ -30,6 +32,7 @@ All accountability, support, and community interaction happens in the **CODERCOP
 - Study group coordination
 
 #### 🏆 **Other Channels:**
+
 - #introductions - Introduce yourself and commit publicly
 - #resources - Additional learning materials
 - #job-hunting - Career advice and job search support
@@ -45,7 +48,9 @@ All accountability, support, and community interaction happens in the **CODERCOP
 
 ### 2️⃣ **Introduce Yourself in #introductions**
 Copy and post this template:
+
 ```
+
 👋 Hello #100DaysOfAIEngineer Community!
 
 Name: [Your name]
@@ -57,14 +62,18 @@ GitHub: [Your GitHub profile]
 Accountability: I'll post daily in #100daysofaiengineer
 
 Let's do this! 🔥
+
 ```
 
 ### 3️⃣ **Post Your Public Commitment**
 In **#100daysofaiengineer** channel:
+
 ```
+
 🚀 STARTING DAY 1 TODAY!
 
 I'm committing to:
+
 ✅ 2-4 hours of learning daily
 ✅ Daily posts in this channel
 ✅ Building all 7 projects
@@ -76,11 +85,14 @@ Repository: [Your forked repo]
 Hold me accountable! 💪
 
 #100DaysOfAIEngineer
+
 ```
 
 ### 4️⃣ **Set Up Daily Check-in Habit**
 Every day, post in **#100daysofaiengineer**:
+
 ```
+
 Day [X]/100 ✅
 
 Topic: [Today's topic]
@@ -91,6 +103,7 @@ Challenge: [What was hard]
 GitHub: [Today's commit link]
 
 Tomorrow: [Next topic]
+
 ```
 
 ---
@@ -98,6 +111,7 @@ Tomorrow: [Next topic]
 ## 🤝 Community Engagement Rules
 
 ### **Expected Behavior:**
+
 ✅ Post your progress EVERY DAY in #100daysofaiengineer
 ✅ Help others when they're stuck (even if you're just 1 day ahead)
 ✅ Share both wins AND struggles (vulnerability = strength)
@@ -106,6 +120,7 @@ Tomorrow: [Next topic]
 ✅ Be respectful and supportive
 
 ### **Forbidden Behavior:**
+
 ❌ Ghosting (if you quit, at least say goodbye)
 ❌ Posting solutions without explanation (ruins learning)
 ❌ Gatekeeping or "well actually" behavior
@@ -154,22 +169,26 @@ Join the broader CoderCops community across all platforms:
 ### **Daily Routine:**
 
 **Morning (5 min):**
+
 1. Check Discord #100daysofaiengineer for motivation
 2. See what others are working on
 3. Open today's checklist
 
 **During Learning (Throughout the day):**
+
 4. When stuck, ask in Discord forum
 5. Share interesting insights in channel
 6. Help someone if you see a question you can answer
 
 **End of Day (10 min):**
+
 7. Post your daily update in #100daysofaiengineer
 8. Share on Twitter/LinkedIn with #100DaysOfAIEngineer
 9. Push code to GitHub
 10. React to 3-5 other people's posts
 
 ### **Weekly (30 min):**
+
 - Post detailed weekly summary in Discord forum
 - Share your best project/code in #showcase
 - Schedule peer code review session
@@ -180,6 +199,7 @@ Join the broader CoderCops community across all platforms:
 
 ### **Discord Tracking:**
 Your progress is tracked through:
+
 - ✅ Daily posts in #100daysofaiengineer (must be consistent)
 - ✅ Weekly summaries in forum
 - ✅ Project showcases in #showcase
@@ -187,12 +207,14 @@ Your progress is tracked through:
 
 ### **Streak Tracking:**
 The community will notice:
+
 - 🔥 7-day streak = Recognition in channel
 - 🔥 30-day streak = Special role in Discord
 - 🔥 50-day streak = Featured in CoderCops social media
 - 🔥 100-day completion = Hall of Fame + Certificate
 
 ### **Peer Accountability:**
+
 - Find an accountability buddy in Discord
 - Check in with each other daily
 - Review each other's code weekly
@@ -203,6 +225,7 @@ The community will notice:
 ## 💬 How to Get Help When You're Stuck
 
 ### **Step 1: Try to Solve It Yourself (30 min)**
+
 - Read error messages carefully
 - Google the error
 - Check documentation
@@ -210,13 +233,16 @@ The community will notice:
 
 ### **Step 2: Post in Discord Forum**
 Use this template:
+
 ```
+
 **Topic:** [Day X: Specific Issue]
 
 **What I'm trying to do:**
 [Clear explanation]
 
 **What I tried:**
+
 1. [Attempt 1]
 2. [Attempt 2]
 3. [Attempt 3]
@@ -228,13 +254,16 @@ Use this template:
 [GitHub link or code snippet]
 
 **Resources I've checked:**
+
 - [Link 1]
 - [Link 2]
 
 Please help! 🙏
+
 ```
 
 ### **Step 3: Engage with Responses**
+
 - Try suggested solutions
 - Report back what worked
 - Thank people who helped
@@ -245,12 +274,14 @@ Please help! 🙏
 ## 🎓 Study Groups & Pair Programming
 
 ### **Find Your Squad:**
+
 - Post in #introductions with your timezone
 - Look for others starting around the same time
 - Form groups of 3-5 people
 - Create a private Discord thread
 
 ### **Weekly Study Sessions:**
+
 - Schedule 1-2 video calls per week
 - Review each other's code
 - Discuss difficult concepts
@@ -262,15 +293,18 @@ Please help! 🙏
 ## 🚨 What Happens If You Disappear?
 
 ### **3 Days Silent:**
+
 - Community will tag you asking if you're okay
 - Gentle reminder to stay consistent
 
 ### **7 Days Silent:**
+
 - Assumed you've quit
 - You're welcome to restart anytime
 - Post in #introductions when you return
 
 ### **Want to Officially Quit:**
+
 - Post in #100daysofaiengineer
 - Share why (helps others learn from your experience)
 - You're always welcome to come back
@@ -301,14 +335,17 @@ Please help! 🙏
 ## 📞 Need Help with Discord?
 
 **Discord Server Issues:**
+
 - DM @moderator in Discord
 - Post in #general-help
 
 **Technical Curriculum Questions:**
+
 - Post in 100daysofaiengineer forum
 - Tag experienced members
 
 **CoderCops Team:**
+
 - Follow and DM @codercops on Twitter/LinkedIn for urgent issues
 
 ---
@@ -320,6 +357,7 @@ Please help! 🙏
 Thousands of learners are in the CoderCops Discord right now, working through the same challenges, celebrating the same wins, and pushing toward the same goal.
 
 **The community makes the difference between:**
+
 - Starting vs. Finishing
 - Struggling alone vs. Learning together
 - Quitting vs. Pushing through
@@ -334,6 +372,7 @@ Thousands of learners are in the CoderCops Discord right now, working through th
 ---
 
 **Quick Links:**
+
 - 🎮 Discord: https://discord.gg/9eFXYntYa8
 - 🐦 Twitter: https://twitter.com/codercops
 - 💼 LinkedIn: https://linkedin.com/company/codercops

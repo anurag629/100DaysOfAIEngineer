@@ -28,11 +28,13 @@
 ## 🧪 Knowledge Verification
 
 ```
+
 Q: What's the difference between semantic and instance segmentation?
 Q: How does U-Net's encoder-decoder architecture work?
 Q: Explain the GAN training process (generator vs discriminator)
 Q: What is mode collapse in GANs?
 Q: How do Vision Transformers differ from CNNs?
+
 ```
 
 **Score: ___/5**
@@ -42,12 +44,14 @@ Q: How do Vision Transformers differ from CNNs?
 ## 🎯 Confidence Assessment
 
 ```
+
 Segmentation: ___ / 10
 Autoencoders & VAEs: ___ / 10
 GANs: ___ / 10
 Vision Transformers: ___ / 10
 
 Week 6 Overall: ___ / 10
+
 ```
 
 ---
@@ -63,6 +67,7 @@ Prepare by reviewing all CV concepts (detection, tracking, real-time processing)
 ## 💬 Week 6 Completion Post
 
 ```
+
 ✅ WEEK 6 COMPLETE! Advanced CV unlocked! 🔥
 
 Segmentation, GANs, Vision Transformers
@@ -73,6 +78,7 @@ Achievements:
 ✓ Vision Transformer basics
 
 #100DaysOfAIEngineer #ComputerVision #GANs #VisionTransformers
+
 ```
 
 ---

@@ -30,11 +30,13 @@
 ## 🧪 Knowledge Verification
 
 ```
+
 Q: What is tokenization and why is it important?
 Q: How do word embeddings capture semantic meaning?
 Q: What's the difference between Word2Vec and GloVe?
 Q: Explain how seq2seq models work
 Q: When would you use stemming vs lemmatization?
+
 ```
 
 **Score: ___/5**
@@ -46,6 +48,7 @@ Q: When would you use stemming vs lemmatization?
 **Build: Multi-Task NLP System**
 
 Create a system that:
+
 1. Preprocesses text (cleaning, tokenization)
 2. Performs sentiment analysis
 3. Extracts named entities
@@ -60,12 +63,14 @@ Test on real-world text (tweets, reviews, articles)
 ## 🎯 Confidence Assessment
 
 ```
+
 Text Preprocessing: ___ / 10
 Word Embeddings: ___ / 10
 Text Classification: ___ / 10
 NER & Seq2Seq: ___ / 10
 
 Week 8 Overall: ___ / 10
+
 ```
 
 ---
@@ -81,6 +86,7 @@ The most important week for modern NLP!
 ## 💬 Week 8 Completion Post
 
 ```
+
 ✅ WEEK 8 COMPLETE! NLP fundamentals mastered! 📝
 
 Text Processing → Embeddings → Classification
@@ -94,6 +100,7 @@ Achievements:
 Ready for Transformers! 🚀
 
 #100DaysOfAIEngineer #NLP #MachineLearning #TextAnalytics
+
 ```
 
 ---

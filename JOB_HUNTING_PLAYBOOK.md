@@ -7,6 +7,7 @@
 ## 🎯 The Goal: AI Engineering Role in 30-90 Days
 
 **This playbook covers:**
+
 - Resume optimization with your 7 projects
 - Portfolio website creation
 - LinkedIn profile transformation
@@ -22,24 +23,28 @@
 ## 📅 Days 101-130: Job Hunting Sprint
 
 ### **Week 1 (Days 101-107): Foundation**
+
 - Build portfolio website
 - Optimize resume
 - Update LinkedIn profile
 - Compile project showcases
 
 ### **Week 2 (Days 108-114): Applications Begin**
+
 - Apply to 10-15 companies
 - Start networking outreach
 - Practice interview questions
 - Create demo videos
 
 ### **Week 3 (Days 115-121): Interview Prep Intensifies**
+
 - Mock interviews daily
 - System design prep
 - Coding challenges
 - ML theory review
 
 ### **Week 4 (Days 122-130): Full Court Press**
+
 - Apply to 15-20 more companies
 - Follow up on applications
 - Negotiate offers
@@ -52,13 +57,18 @@
 ### **Your Resume Should SCREAM AI Engineer**
 
 **❌ Before 100 Days:**
+
 ```
+
 Skills: Python, ML, Data Analysis
 Projects: None
+
 ```
 
 **✅ After 100 Days:**
+
 ```
+
 AI ENGINEER
 Specialized in Computer Vision, NLP, and Production ML Systems
 
@@ -71,6 +81,7 @@ SKILLS:
 
 PROJECTS:
 [7 impressive projects with metrics and links]
+
 ```
 
 ---
@@ -78,6 +89,7 @@ PROJECTS:
 ### **Resume Structure:**
 
 ```
+
 [YOUR NAME]
 AI Engineer | Machine Learning | Computer Vision | NLP
 [Email] | [Phone] | [LinkedIn] | [GitHub] | [Portfolio]
@@ -155,6 +167,7 @@ CERTIFICATIONS
 ### **Resume Tips:**
 
 **DO:**
+
 ✅ Lead with metrics (accuracy, FPS, ROC-AUC, users served)
 ✅ Include GitHub and live demo links
 ✅ Use technical keywords (ATS optimization)
@@ -162,6 +175,7 @@ CERTIFICATIONS
 ✅ Quantify impact wherever possible
 
 **DON'T:**
+
 ❌ List technologies you can't explain
 ❌ Use vague descriptions ("built ML model")
 ❌ Skip GitHub links
@@ -175,16 +189,20 @@ CERTIFICATIONS
 ### **Must-Have Sections:**
 
 **1. Hero Section**
+
 ```
+
 Hi, I'm [Your Name]
 AI Engineer specializing in [Your Focus]
 
 [Professional photo]
 [GitHub] [LinkedIn] [Email] [Resume]
+
 ```
 
 **2. Projects Showcase**
 For each of your 7 projects:
+
 - Project name and tagline
 - Screenshot or demo video
 - Technical description
@@ -194,6 +212,7 @@ For each of your 7 projects:
 
 **3. Skills Section**
 Organized by category:
+
 - Machine Learning
 - Deep Learning
 - Computer Vision
@@ -201,17 +220,20 @@ Organized by category:
 - MLOps & Tools
 
 **4. About Me**
+
 - Your story
 - Why AI Engineering
 - What you're passionate about
 - What you're looking for
 
 **5. Blog (Optional but recommended)**
+
 - Write about your 100-day journey
 - Technical deep-dives on projects
 - Lessons learned
 
 **6. Contact**
+
 - Email
 - LinkedIn
 - GitHub
@@ -222,16 +244,19 @@ Organized by category:
 ### **Portfolio Platforms:**
 
 **Easy (No coding):**
+
 - Notion (notion.so) - Clean, professional
 - Carrd (carrd.co) - Simple one-pagers
 - Wix / Squarespace - Drag-and-drop
 
 **Developer-friendly:**
+
 - GitHub Pages + Jekyll/Hugo
 - Next.js + Vercel (modern, fast)
 - React + Netlify
 
 **Showcase platforms:**
+
 - Polywork
 - Read.cv
 - Bento
@@ -245,15 +270,21 @@ Organized by category:
 ### **Your LinkedIn Should Be a Job Magnet**
 
 **Profile Headline (NOT just "AI Engineer"):**
+
 ```
+
 Examples:
+
 ✅ AI Engineer | Computer Vision & NLP | Building Production ML Systems | PyTorch | LLMs
 ✅ Machine Learning Engineer | 7 Deployed AI Projects | Specialized in RAG & MLOps
 ✅ AI/ML Engineer | Computer Vision, NLP, MLOps | Open to Opportunities
+
 ```
 
 **About Section Template:**
+
 ```
+
 AI Engineer passionate about [your focus area].
 
 I recently completed an intensive 100-day AI Engineering program, building 7 production-ready applications spanning:
@@ -279,9 +310,11 @@ CURRENTLY:
 
 🔗 Portfolio: [link]
 💻 GitHub: [link]
+
 ```
 
 **Featured Section:**
+
 - Link to all 7 projects
 - Link to portfolio website
 - Blog posts about your journey
@@ -289,7 +322,9 @@ CURRENTLY:
 
 **Experience Section:**
 Even if you don't have professional experience:
+
 ```
+
 AI Engineer | Independent Projects
 Jan 2025 - Present
 
@@ -297,10 +332,12 @@ Jan 2025 - Present
 • Built 7 production-ready AI applications from scratch
 • Specialized in computer vision, NLP, and MLOps
 • [List your projects with metrics here]
+
 ```
 
 **Skills Section:**
 Endorse yourself for:
+
 - Python, PyTorch, Machine Learning, Deep Learning
 - Computer Vision, Natural Language Processing
 - TensorFlow, scikit-learn, LangChain
@@ -316,7 +353,9 @@ Endorse yourself for:
 **Post 3-5x per week:**
 
 **Monday:** Project showcase
+
 ```
+
 Just deployed a real-time object detection system! 🚀
 
 Key achievements:
@@ -330,10 +369,13 @@ What's your favorite computer vision challenge?
 
 #ComputerVision #MachineLearning #AI
 [Add project screenshot/video]
+
 ```
 
 **Wednesday:** Learning/insight share
+
 ```
+
 Learned a valuable lesson building RAG systems:
 
 Retrieval quality matters MORE than model size.
@@ -349,10 +391,13 @@ Focus on:
 What's your RAG optimization tip?
 
 #LLMs #RAG #AIEngineering
+
 ```
 
 **Friday:** Engagement / question
+
 ```
+
 Question for ML Engineers:
 
 What's your go-to metric for imbalanced classification problems?
@@ -362,9 +407,11 @@ I've been using ROC-AUC and PR curves, but curious what others prefer and why.
 Drop your approach below! 👇
 
 #MachineLearning #DataScience
+
 ```
 
 **Engage daily:**
+
 - Comment on others' ML/AI posts
 - Answer questions in your expertise
 - Share interesting AI news
@@ -377,23 +424,27 @@ Drop your approach below! 👇
 ### **Target Companies:**
 
 **Tier 1: AI-First Companies**
+
 - OpenAI, Anthropic, Hugging Face
 - Midjourney, Stability AI
 - Scale AI, Weights & Biases
 - (Competitive, but worth applying)
 
 **Tier 2: Tech Companies with Strong AI Teams**
+
 - Google, Meta, Microsoft, Amazon
 - Apple, Tesla, NVIDIA
 - Airbnb, Uber, Netflix
 - Stripe, Shopify, GitHub
 
 **Tier 3: ML/AI Startups**
+
 - Y Combinator companies
 - Series A-C startups on AngelList
 - AI section on Wellfound (formerly AngelList Talent)
 
 **Tier 4: Traditional Companies Building AI**
+
 - Finance (JPMorgan, Goldman Sachs)
 - Healthcare (various health tech)
 - Retail (Walmart, Target)
@@ -404,6 +455,7 @@ Drop your approach below! 👇
 ### **Where to Apply:**
 
 **Job Boards:**
+
 - LinkedIn Jobs (primary)
 - Wellfound / AngelList
 - Hacker News "Who's Hiring" (monthly thread)
@@ -413,11 +465,13 @@ Drop your approach below! 👇
 - Hugging Face Jobs
 
 **Company Websites:**
+
 - Apply directly (better than job boards)
 - Look for "Careers" page
 - Filter for "Machine Learning" or "AI"
 
 **Networking:**
+
 - Warm introductions > cold applications
 - LinkedIn connections
 - Twitter/X DMs to engineers
@@ -441,9 +495,11 @@ Drop your approach below! 👇
 ### **Application Tracking Spreadsheet:**
 
 ```
+
 | Company | Role | Date Applied | Status | Follow-up Date | Notes |
 |---------|------|--------------|--------|----------------|-------|
 | OpenAI  | MLE  | 2025-02-01   | Applied| 2025-02-08     | Referral from X |
+
 ```
 
 **Track everything. Follow up after 1 week.**
@@ -455,10 +511,13 @@ Drop your approach below! 👇
 ### **Networking = Faster Job Offers**
 
 **The Formula:**
+
 ```
+
 Networking → Warm Intro → Interview → Offer
 vs.
 Cold Application → Rejected (90% of time)
+
 ```
 
 ---
@@ -468,7 +527,9 @@ Cold Application → Rejected (90% of time)
 **1. LinkedIn Outreach**
 
 **Message Template (to AI Engineers):**
+
 ```
+
 Hi [Name],
 
 I came across your work on [specific project/post] and was impressed by [specific detail].
@@ -481,6 +542,7 @@ Would you be open to a brief chat? Happy to work around your schedule.
 
 Best,
 [Your Name]
+
 ```
 
 **2. Twitter/X Outreach**
@@ -518,23 +580,27 @@ Best,
 ### **Types of Interviews:**
 
 **1. Recruiter Screen (30 min)**
+
 - Your background
 - Why AI/ML?
 - Why this company?
 - Logistics and expectations
 
 **2. Technical Screen (45-60 min)**
+
 - Coding (Python, algorithms)
 - ML fundamentals
 - System design (sometimes)
 
 **3. Project Deep-Dive (60 min)**
+
 - Walk through your projects
 - Technical decisions
 - Trade-offs and challenges
 - How you'd improve
 
 **4. ML System Design (60 min)**
+
 - Design an ML system
 - Data pipeline
 - Model choice
@@ -542,6 +608,7 @@ Best,
 - Monitoring
 
 **5. Behavioral (45 min)**
+
 - Past experiences
 - Problem-solving
 - Communication
@@ -552,11 +619,13 @@ Best,
 ### **Preparation Strategy:**
 
 **Weeks 1-2: Fundamentals Review**
+
 - Review your 100-day notes
 - Practice explaining your projects
 - Refresh ML theory
 
 **Weeks 3-4: Interview Practice**
+
 - Mock interviews daily
 - Coding practice (LeetCode)
 - System design practice
@@ -567,7 +636,9 @@ Best,
 ### **Common Interview Questions:**
 
 **ML Fundamentals:**
+
 ```
+
 • Explain backpropagation
 • Bias-variance tradeoff
 • Overfitting vs underfitting
@@ -575,42 +646,55 @@ Best,
 • How to handle imbalanced data?
 • Explain regularization
 • Cross-validation strategies
+
 ```
 
 **Deep Learning:**
+
 ```
+
 • CNN vs RNN vs Transformer?
 • How does attention work?
 • Transfer learning strategies
 • Batch normalization vs Layer normalization
 • How to debug neural networks?
+
 ```
 
 **NLP/LLMs:**
+
 ```
+
 • How do transformers work?
 • BERT vs GPT architecture
 • What is RAG?
 • Fine-tuning strategies
 • Prompt engineering best practices
+
 ```
 
 **MLOps:**
+
 ```
+
 • How to deploy ML models?
 • Model monitoring strategies
 • CI/CD for ML
 • A/B testing for models
 • Model versioning
+
 ```
 
 **Project Questions:**
+
 ```
+
 • Walk me through [your project]
 • Why did you choose [approach]?
 • What challenges did you face?
 • How would you scale this?
 • What would you do differently?
+
 ```
 
 ---
@@ -618,21 +702,25 @@ Best,
 ### **Practice Resources:**
 
 **Coding:**
+
 - LeetCode (Easy/Medium) - 50 problems
 - HackerRank ML problems
 - Practice in Python
 
 **ML Theory:**
+
 - Review your 100-day curriculum
 - StatQuest YouTube for concepts
 - "Ace the Data Science Interview" book
 
 **System Design:**
+
 - "Machine Learning System Design" by Chip Huyen
 - "Designing ML Systems" by Chip Huyen (book)
 - ExperiencedML YouTube channel
 
 **Mock Interviews:**
+
 - Pramp (free peer mock interviews)
 - Interviewing.io (paid, with real engineers)
 - Practice with CoderCops community
@@ -646,11 +734,13 @@ Best,
 **AI/ML Engineer Salaries (US, 2025):**
 
 **Entry-Level (0-2 years):**
+
 - Small companies / startups: $80k - $120k
 - Mid-size companies: $100k - $140k
 - Big Tech: $120k - $180k (+ equity + bonus)
 
 **Mid-Level (2-5 years):**
+
 - Small companies: $120k - $160k
 - Mid-size: $140k - $180k
 - Big Tech: $180k - $250k+ (total comp)
@@ -664,26 +754,33 @@ Best,
 ### **Negotiation Strategy:**
 
 **1. Always Negotiate**
+
 - Companies expect it
 - You're leaving money on the table if you don't
 - Worst case: they say no
 
 **2. Delay Salary Discussion**
+
 - "I'd like to learn more about the role first"
 - "I'm flexible, what's the budget for this role?"
 - Never give number first
 
 **3. When You Must Give a Number:**
+
 - Research using levels.fyi, Glassdoor
 - Give a range, not exact number
 - Aim high (you can always come down)
 
 **Example:**
+
 ```
+
 "Based on my research and the value I'd bring with my expertise in [areas], I'm targeting $110k-$130k, but I'm flexible based on the full package including equity, benefits, and growth opportunities."
+
 ```
 
 **4. Negotiate Beyond Salary:**
+
 - Equity/stock options
 - Signing bonus
 - Remote work flexibility
@@ -692,6 +789,7 @@ Best,
 - PTO/vacation days
 
 **5. Multiple Offers = Leverage**
+
 - Always interview with multiple companies
 - Use offers to negotiate
 - "I have another offer at $X, can you match?"
@@ -701,12 +799,15 @@ Best,
 ## 📧 Follow-Up Strategies
 
 ### **After Application:**
+
 - Wait 5-7 days
 - Send polite follow-up email
 - Reference your projects
 
 **Template:**
+
 ```
+
 Subject: Following up on AI Engineer Application
 
 Hi [Recruiter Name],
@@ -722,15 +823,19 @@ Would love to discuss how I can contribute to the team.
 
 Best,
 [Your Name]
+
 ```
 
 ### **After Interview:**
+
 - Send thank you email within 24 hours
 - Reference specific conversation points
 - Reiterate interest
 
 **Template:**
+
 ```
+
 Subject: Thank you - [Role] Interview
 
 Hi [Interviewer Name],
@@ -745,6 +850,7 @@ Looking forward to next steps!
 
 Best,
 [Your Name]
+
 ```
 
 ---
@@ -752,15 +858,19 @@ Best,
 ## 📊 Metrics to Track
 
 **Application Metrics:**
+
 ```
+
 Applications Sent: ___
 Responses Received: ___ (Response Rate: __%)
 Phone Screens: ___ (Phone Screen Rate: __%)
 Technical Interviews: ___ (Interview Rate: __%)
 Offers: ___ (Offer Rate: __%)
+
 ```
 
 **Typical Funnel:**
+
 - 100 applications →
 - 20 responses (20%) →
 - 10 phone screens (10%) →
@@ -768,6 +878,7 @@ Offers: ___ (Offer Rate: __%)
 - 2-3 offers (2-3%)
 
 **If your funnel is worse, fix:**
+
 - Low response rate → Resume/application quality
 - Low phone screen rate → Communication skills
 - Low interview rate → Technical preparation
@@ -778,6 +889,7 @@ Offers: ___ (Offer Rate: __%)
 ## 🎯 30-Day Checklist
 
 **Week 1 (Days 101-107):**
+
 - [ ] Create portfolio website
 - [ ] Optimize resume
 - [ ] Update LinkedIn profile
@@ -786,6 +898,7 @@ Offers: ___ (Offer Rate: __%)
 - [ ] Reach out to 5 people for networking
 
 **Week 2 (Days 108-114):**
+
 - [ ] Apply to 15-20 companies
 - [ ] Post on LinkedIn (3 times)
 - [ ] 2 coffee chats / networking calls
@@ -794,6 +907,7 @@ Offers: ___ (Offer Rate: __%)
 - [ ] Reach out to 10 new connections
 
 **Week 3 (Days 115-121):**
+
 - [ ] Apply to 20+ companies
 - [ ] Mock interview practice (3-5 sessions)
 - [ ] Follow up on applications
@@ -802,6 +916,7 @@ Offers: ___ (Offer Rate: __%)
 - [ ] System design study (2-3 scenarios)
 
 **Week 4 (Days 122-130):**
+
 - [ ] Apply to 20+ companies
 - [ ] Continue interviews
 - [ ] Negotiate offers (if received)
@@ -816,6 +931,7 @@ Offers: ___ (Offer Rate: __%)
 **You have the skills. Now get the job.**
 
 **The job hunt is a numbers game + skill:**
+
 - Apply to volume
 - Network aggressively
 - Prepare thoroughly
@@ -831,6 +947,7 @@ Offers: ___ (Offer Rate: __%)
 ## 💬 Share Your Wins
 
 **Post in Discord when you:**
+
 - Get first interview
 - Complete technical round
 - Receive offer

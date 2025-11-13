@@ -9,6 +9,7 @@
 ## 🎯 Our Mission
 
 **Build AI Engineers through:**
+
 - Structured learning
 - Public accountability
 - Peer support
@@ -43,12 +44,14 @@ Disagree on ideas, not people. Stay professional.
 ### **Rule 1: Be Respectful**
 
 **DO:**
+
 ✅ Treat everyone with respect
 ✅ Give constructive feedback
 ✅ Assume good intentions
 ✅ Be patient with beginners
 
 **DON'T:**
+
 ❌ Insult, mock, or belittle anyone
 ❌ Use discriminatory language
 ❌ Attack people for not knowing something
@@ -61,6 +64,7 @@ Disagree on ideas, not people. Stay professional.
 ### **Rule 2: Stay On Topic**
 
 **#100daysofaiengineer channel:**
+
 - Daily check-ins
 - Progress updates
 - Quick questions
@@ -68,6 +72,7 @@ Disagree on ideas, not people. Stay professional.
 - Accountability posts
 
 **100daysofaiengineer forum:**
+
 - Weekly reviews
 - Project showcases
 - Code reviews
@@ -75,6 +80,7 @@ Disagree on ideas, not people. Stay professional.
 - Long-form discussions
 
 **#general or other channels:**
+
 - Off-topic chat
 - AI news
 - Career discussions
@@ -87,6 +93,7 @@ Disagree on ideas, not people. Stay professional.
 ### **Rule 3: No Spam or Self-Promotion Without Value**
 
 **Allowed:**
+
 ✅ Share your projects (with context)
 ✅ Share helpful resources
 ✅ Post progress updates
@@ -94,6 +101,7 @@ Disagree on ideas, not people. Stay professional.
 ✅ Blog posts (if educational and not excessive)
 
 **Not Allowed:**
+
 ❌ Unsolicited DMs promoting products/services
 ❌ Affiliate links without disclosure
 ❌ Course promotions (unless exceptionally relevant and disclosed)
@@ -126,12 +134,17 @@ Disagree on ideas, not people. Stay professional.
 ### **Rule 5: Use Threads and Formatting**
 
 **For longer discussions:**
+
 - Use forum posts (not channel messages)
 - Use threads to keep conversations organized
 - Use code blocks for code:
+
   ```python
+
   # Like this
+
   ```
+
 - Use markdown for formatting
 
 **Makes it easier for everyone to follow.**
@@ -141,12 +154,14 @@ Disagree on ideas, not people. Stay professional.
 ### **Rule 6: No Plagiarism**
 
 **DO:**
+
 ✅ Share code you wrote
 ✅ Credit sources when you adapt code
 ✅ Explain how you modified tutorial code
 ✅ Link to resources you learned from
 
 **DON'T:**
+
 ❌ Copy-paste someone else's project and claim it's yours
 ❌ Submit tutorial code as your own work
 ❌ Plagiarize blog posts or documentation
@@ -162,6 +177,7 @@ Disagree on ideas, not people. Stay professional.
 **If you can answer a question, do it.**
 
 **Expected behavior:**
+
 - Answer questions when you know the answer
 - Review code when requested (if you have time)
 - Encourage people who are struggling
@@ -175,6 +191,7 @@ Disagree on ideas, not people. Stay professional.
 ### **Rule 8: No Ghosting**
 
 **If you miss days or need to pause:**
+
 - Post about it in Discord
 - Explain what happened
 - Ask for support
@@ -189,11 +206,13 @@ Disagree on ideas, not people. Stay professional.
 ### **Rule 9: Protect Privacy & Security**
 
 **DO:**
+
 ✅ Share code on GitHub (public repos)
 ✅ Share learning progress
 ✅ Network professionally
 
 **DON'T:**
+
 ❌ Share API keys, passwords, credentials
 ❌ Share personal information of others
 ❌ Dox or harass anyone
@@ -208,6 +227,7 @@ Disagree on ideas, not people. Stay professional.
 **All members must follow Discord's Terms of Service and Community Guidelines.**
 
 This includes but not limited to:
+
 - No illegal content
 - No harassment
 - No hate speech
@@ -223,7 +243,9 @@ This includes but not limited to:
 ### **What to Post Daily in #100daysofaiengineer:**
 
 **Minimum (5 min):**
+
 ```
+
 Day X/100 ✅
 
 Topic: [What you learned]
@@ -232,14 +254,18 @@ Done: [What you completed]
 Code: [GitHub link]
 
 #100DaysOfAIEngineer
+
 ```
 
 **Better (recommended):**
+
 ```
+
 Day X/100 ✅
 
 🎯 Today's Focus: [Topic]
 ⏰ Time: [X] hours
+
 ✅ Completed:
   - [Task 1]
   - [Task 2]
@@ -252,18 +278,23 @@ Day X/100 ✅
 💪 Tomorrow: [What's next]
 
 #100DaysOfAIEngineer
+
 ```
 
 **Best (when you have time):**
+
 ```
+
 Day X/100 ✅
 
 🎯 Today's Focus: [Topic + context]
 
 ✅ What I Built:
+
 [Brief description of project/code]
 
 💡 Key Insights:
+
 1. [Learning 1]
 2. [Learning 2]
 
@@ -283,6 +314,7 @@ Demo: [Link if applicable]
 Tomorrow: [Next topic]
 
 #100DaysOfAIEngineer #Day[X]
+
 ```
 
 ---
@@ -294,6 +326,7 @@ Tomorrow: [Next topic]
 **Template:** See [weekly_reviews/](weekly_reviews/) for specific week templates
 
 **Minimum requirements:**
+
 - Summary of week's learning
 - Projects built
 - Challenges overcome
@@ -309,6 +342,7 @@ Tomorrow: [Next topic]
 ### **Good Question Format:**
 
 ```
+
 **Problem:** [Clear, specific description]
 
 **Day/Topic:** Day X - [Topic]
@@ -320,11 +354,15 @@ Tomorrow: [Next topic]
 [Current behavior]
 
 **Error message:**
+
 ```
+
 [Paste full error]
+
 ```
 
 **What I've tried:**
+
 1. [Attempt 1]
 2. [Attempt 2]
 3. [Researched X, Y, Z]
@@ -333,11 +371,13 @@ Tomorrow: [Next topic]
 [GitHub link or code snippet]
 
 **Environment:**
+
 - Python version:
 - Libraries:
 - OS:
 
 Any ideas? 🙏
+
 ```
 
 **This makes it easy for others to help you.**
@@ -361,21 +401,27 @@ Any ideas? 🙏
 ### **Good Answer Format:**
 
 ```
+
 **Short answer:** [Quick solution if simple]
 
 **Explanation:** [Why this works]
 
 **Code example:**
+
 ```python
+
 # Your suggested code
+
 ```
 
 **Resources:**
+
 - [Link to docs]
 - [Link to tutorial]
 
 **Next steps:**
 [What they should try next]
+
 ```
 
 **Don't just give the answer. Help them understand.**
@@ -385,6 +431,7 @@ Any ideas? 🙏
 ### **When You Don't Know:**
 
 **It's OK to say:**
+
 - "I haven't learned this yet, but [tag someone who has]"
 - "Not sure, but have you tried [resource]?"
 - "I'm learning this too, let's figure it out together"
@@ -396,6 +443,7 @@ Any ideas? 🙏
 ## 🚫 What Gets You Banned
 
 **Immediate Ban (no warning):**
+
 - Harassment, doxxing, threats
 - Hate speech, discrimination
 - Spam bots
@@ -404,6 +452,7 @@ Any ideas? 🙏
 - Violating Discord ToS
 
 **Ban After Warnings:**
+
 - Repeated violations of community rules
 - Consistent disrespectful behavior
 - Ignoring mod requests
@@ -416,6 +465,7 @@ Any ideas? 🙏
 ## 👮 Moderator Actions
 
 **Moderators can:**
+
 - Issue warnings
 - Timeout users (temporary mute)
 - Delete messages
@@ -423,6 +473,7 @@ Any ideas? 🙏
 - Make final decisions on edge cases
 
 **If you disagree with mod action:**
+
 - DM mods respectfully
 - Explain your perspective
 - Accept final decision
@@ -434,6 +485,7 @@ Any ideas? 🙏
 ## 🎉 Community Events
 
 ### **Monthly Celebrations:**
+
 - **First Friday:** New cohort kickoff
 - **Last Friday:** Monthly graduation ceremony
 - **Weekly:** Code review sessions
@@ -447,16 +499,19 @@ Any ideas? 🙏
 ### **When Posting:**
 
 **Be Clear:**
+
 - Specific subject lines
 - Context for questions
 - Links to relevant info
 
 **Be Concise:**
+
 - TL;DR for long posts
 - Use bullet points
 - Break up walls of text
 
 **Be Helpful:**
+
 - Add value to conversations
 - Share what worked for you
 - Encourage others
@@ -464,16 +519,19 @@ Any ideas? 🙏
 ### **When Responding:**
 
 **Be Kind:**
+
 - Remember you were a beginner
 - No condescending tone
 - Assume good faith
 
 **Be Constructive:**
+
 - Critique ideas, not people
 - Offer alternatives
 - Explain reasoning
 
 **Be Timely:**
+
 - Respond when you can
 - But don't feel obligated 24/7
 - Upvote good questions if you can't answer
@@ -483,6 +541,7 @@ Any ideas? 🙏
 ## 📊 Accountability & Streaks
 
 **Discord shows your consistency:**
+
 - Daily posts visible to all
 - Community calls out if you go silent
 - Accountability partners check on you
@@ -496,6 +555,7 @@ Any ideas? 🙏
 ## 🌟 Recognition System
 
 **Community recognizes:**
+
 - 🏆 Graduates (completed 100 days)
 - 🔥 Perfect streaks
 - 🤝 Most helpful members
@@ -511,6 +571,7 @@ Any ideas? 🙏
 **Representing CoderCops / 100 Days Challenge elsewhere:**
 
 **When posting on LinkedIn, Twitter, etc.:**
+
 ✅ Tag @CoderCops
 ✅ Use #100DaysOfAIEngineer
 ✅ Link back to Discord
