@@ -237,7 +237,7 @@ Organized by category:
 - Email
 - LinkedIn
 - GitHub
-- Discord (CoderCops)
+- Discord (CODERCOPS)
 
 ---
 
@@ -475,7 +475,7 @@ Drop your approach below! 👇
 - Warm introductions > cold applications
 - LinkedIn connections
 - Twitter/X DMs to engineers
-- Discord communities (including CoderCops)
+- Discord communities (including CODERCOPS)
 
 ---
 
@@ -553,7 +553,7 @@ Best,
 
 **3. Discord/Community Networking**
 
-- CoderCops #job-hunting channel
+- CODERCOPS #job-hunting channel
 - Other AI Discord communities
 - Be active, help others, ask for intros
 
@@ -723,7 +723,7 @@ Best,
 
 - Pramp (free peer mock interviews)
 - Interviewing.io (paid, with real engineers)
-- Practice with CoderCops community
+- Practice with CODERCOPS community
 
 ---
 

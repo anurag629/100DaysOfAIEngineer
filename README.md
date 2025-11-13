@@ -161,7 +161,7 @@ Fork this repo. Share your commitment. Begin.
 
 **You CAN'T do this alone. And you don't have to.**
 
-### **🎯 CoderCops Discord Server - REQUIRED for Success**
+### **🎯 CODERCOPS Discord Server - REQUIRED for Success**
 
 **Join NOW:** **https://discord.gg/9eFXYntYa8**
 
@@ -190,17 +190,17 @@ Progress: [What you built]
 
 ---
 
-### **📱 Follow CoderCops - Stay Connected & Inspired**
+### **📱 Follow CODERCOPS - Stay Connected & Inspired**
 
-**All platforms:** **@codercops**
+**All platforms:** **@CODERCOPS**
 
-- 🐦 **Twitter/X:** https://twitter.com/codercops - Daily AI tips, community wins
-- 💼 **LinkedIn:** https://linkedin.com/company/codercops - Professional updates, job posts
-- 📸 **Instagram:** https://instagram.com/codercops - Visual progress, motivation
-- 🎥 **YouTube:** https://youtube.com/@codercops - Tutorials, project walkthroughs
-- 💻 **GitHub:** https://github.com/codercops - Open source projects, resources
+- 🐦 **Twitter/X:** https://twitter.com/CODERCOPS - Daily AI tips, community wins
+- 💼 **LinkedIn:** https://linkedin.com/company/CODERCOPS - Professional updates, job posts
+- 📸 **Instagram:** https://instagram.com/CODERCOPS - Visual progress, motivation
+- 🎥 **YouTube:** https://youtube.com/@CODERCOPS - Tutorials, project walkthroughs
+- 💻 **GitHub:** https://github.com/CODERCOPS - Open source projects, resources
 
-**Follow all platforms. Engage. Tag @codercops in your posts. Build in public.**
+**Follow all platforms. Engage. Tag @CODERCOPS in your posts. Build in public.**
 
 ---
 
@@ -208,7 +208,7 @@ Progress: [What you built]
 
 1. ✅ **Join Discord:** https://discord.gg/9eFXYntYa8
 2. ✅ **Introduce yourself** in #introductions (if channel exists)
-3. ✅ **Follow @codercops** on all platforms
+3. ✅ **Follow @CODERCOPS** on all platforms
 4. ✅ **Post your commitment** on social media (template above)
 5. ✅ **Start Day 1** (link below)
 

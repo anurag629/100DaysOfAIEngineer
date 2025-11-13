@@ -1,4 +1,4 @@
-# 🎮 Join the CoderCops Community - Your Accountability Hub
+# 🎮 Join the CODERCOPS Community - Your Accountability Hub
 
 ## 🚀 Welcome to the #100DaysOfAIEngineer Movement
 
@@ -6,7 +6,7 @@ This isn't just a curriculum. It's a **COMMUNITY** of serious learners who hold 
 
 ---
 
-## 🎯 CoderCops Discord Server - Your Central Hub
+## 🎯 CODERCOPS Discord Server - Your Central Hub
 
 ### **Join Now:** https://discord.gg/9eFXYntYa8
 
@@ -130,34 +130,34 @@ Tomorrow: [Next topic]
 
 ---
 
-## 📱 CoderCops Social Media - Follow for Daily Inspiration
+## 📱 CODERCOPS Social Media - Follow for Daily Inspiration
 
-Join the broader CoderCops community across all platforms:
+Join the broader CODERCOPS community across all platforms:
 
-### 🌐 **All Platforms: @codercops**
+### 🌐 **All Platforms: @CODERCOPS**
 
-- **Twitter/X:** https://twitter.com/codercops
+- **Twitter/X:** https://twitter.com/CODERCOPS
   - Daily AI tips, memes, and motivation
   - #100DaysOfAIEngineer highlights
   - Industry news and trends
 
-- **LinkedIn:** https://linkedin.com/company/codercops
+- **LinkedIn:** https://linkedin.com/company/CODERCOPS
   - Professional content and career advice
   - Success stories from graduates
   - Job postings and opportunities
 
-- **Instagram:** https://instagram.com/codercops
+- **Instagram:** https://instagram.com/CODERCOPS
   - Visual learning content
   - Behind-the-scenes of AI projects
   - Community highlights
 
-- **YouTube:** https://youtube.com/@codercops
+- **YouTube:** https://youtube.com/@CODERCOPS
   - Tutorial videos
   - Project walkthroughs
   - Live coding sessions
   - Graduate interviews
 
-- **GitHub:** https://github.com/codercops
+- **GitHub:** https://github.com/CODERCOPS
   - Open source projects
   - This curriculum repository
   - Community contributions
@@ -210,7 +210,7 @@ The community will notice:
 
 - 🔥 7-day streak = Recognition in channel
 - 🔥 30-day streak = Special role in Discord
-- 🔥 50-day streak = Featured in CoderCops social media
+- 🔥 50-day streak = Featured in CODERCOPS social media
 - 🔥 100-day completion = Hall of Fame + Certificate
 
 ### **Peer Accountability:**
@@ -327,7 +327,7 @@ Please help! 🙏
 1. ✅ Join Discord: https://discord.gg/9eFXYntYa8
 2. ✅ Introduce yourself in #introductions
 3. ✅ Post your public commitment in #100daysofaiengineer
-4. ✅ Follow @codercops on all platforms
+4. ✅ Follow @CODERCOPS on all platforms
 5. ✅ Start Day 1 and post your first update
 
 ---
@@ -344,9 +344,9 @@ Please help! 🙏
 - Post in 100daysofaiengineer forum
 - Tag experienced members
 
-**CoderCops Team:**
+**CODERCOPS Team:**
 
-- Follow and DM @codercops on Twitter/LinkedIn for urgent issues
+- Follow and DM @CODERCOPS on Twitter/LinkedIn for urgent issues
 
 ---
 
@@ -354,7 +354,7 @@ Please help! 🙏
 
 **You're not doing this alone.**
 
-Thousands of learners are in the CoderCops Discord right now, working through the same challenges, celebrating the same wins, and pushing toward the same goal.
+Thousands of learners are in the CODERCOPS Discord right now, working through the same challenges, celebrating the same wins, and pushing toward the same goal.
 
 **The community makes the difference between:**
 
@@ -365,7 +365,7 @@ Thousands of learners are in the CoderCops Discord right now, working through th
 
 ---
 
-## 🎊 Welcome to CoderCops. Welcome to #100DaysOfAIEngineer.
+## 🎊 Welcome to CODERCOPS. Welcome to #100DaysOfAIEngineer.
 
 **Now get in Discord and let's fucking GO.** 💪🔥
 
@@ -374,8 +374,8 @@ Thousands of learners are in the CoderCops Discord right now, working through th
 **Quick Links:**
 
 - 🎮 Discord: https://discord.gg/9eFXYntYa8
-- 🐦 Twitter: https://twitter.com/codercops
-- 💼 LinkedIn: https://linkedin.com/company/codercops
-- 📸 Instagram: https://instagram.com/codercops
-- 📺 YouTube: https://youtube.com/@codercops
-- 💻 GitHub: https://github.com/codercops
+- 🐦 Twitter: https://twitter.com/CODERCOPS
+- 💼 LinkedIn: https://linkedin.com/company/CODERCOPS
+- 📸 Instagram: https://instagram.com/CODERCOPS
+- 📺 YouTube: https://youtube.com/@CODERCOPS
+- 💻 GitHub: https://github.com/CODERCOPS

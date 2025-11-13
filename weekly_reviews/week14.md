@@ -127,7 +127,7 @@ CAPSTONE PROJECT: [Project Name]
 
 🙏 THANKS TO:
 
-- @CoderCops community
+- @CODERCOPS community
 - My accountability partners: [names]
 - Everyone who reviewed my code
 - [Anyone else who helped]
@@ -262,7 +262,7 @@ You've earned it. Your name belongs there.
 
 ---
 
-## 💬 Final Message from CoderCops
+## 💬 Final Message from CODERCOPS
 
 **You fucking did it.**
 

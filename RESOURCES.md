@@ -4,7 +4,7 @@ A curated list of the best resources for your 100-day journey.
 
 ---
 
-## 🌐 CoderCops Community (MOST IMPORTANT RESOURCE!)
+## 🌐 CODERCOPS Community (MOST IMPORTANT RESOURCE!)
 
 **Your #1 resource for success is the COMMUNITY.**
 
@@ -34,31 +34,31 @@ A curated list of the best resources for your 100-day journey.
 
 ---
 
-### **📱 CoderCops Social Media - Follow All Platforms**
+### **📱 CODERCOPS Social Media - Follow All Platforms**
 
-**Username on ALL platforms:** **@codercops**
+**Username on ALL platforms:** **@CODERCOPS**
 
-- 🐦 **Twitter/X:** https://twitter.com/codercops
+- 🐦 **Twitter/X:** https://twitter.com/CODERCOPS
   - Daily AI tips, quick wins, community highlights
   - Use #100DaysOfAIEngineer in your posts
 
-- 💼 **LinkedIn:** https://linkedin.com/company/codercops
+- 💼 **LinkedIn:** https://linkedin.com/company/CODERCOPS
   - Professional content, career advice, job postings
   - Connect with alumni and industry professionals
 
-- 📸 **Instagram:** https://instagram.com/codercops
+- 📸 **Instagram:** https://instagram.com/CODERCOPS
   - Visual progress, project showcases, motivation
   - Behind-the-scenes of AI Engineering
 
-- 🎥 **YouTube:** https://youtube.com/@codercops
+- 🎥 **YouTube:** https://youtube.com/@CODERCOPS
   - Project walkthroughs, tutorials, interviews
   - Deep dives into AI concepts
 
-- 💻 **GitHub:** https://github.com/codercops
+- 💻 **GitHub:** https://github.com/CODERCOPS
   - Open source projects, code templates
   - Example implementations
 
-**Engage actively, tag @codercops, build your professional brand in public!**
+**Engage actively, tag @CODERCOPS, build your professional brand in public!**
 
 ---
 
