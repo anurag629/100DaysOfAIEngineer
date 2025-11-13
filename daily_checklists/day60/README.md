@@ -65,12 +65,12 @@ Before starting, ensure you understand:
 
 ### 📝 Must-Read Articles
 
-- [Project Best Practices](https://github.com/) - GitHub guides
-- [ML Project Checklist](https://www.kaggle.com/) - Kaggle resources
+- [HuggingFace Transformers](https://github.com/huggingface/transformers) - State-of-the-art NLP models and examples
+- [NLP Course](https://www.kaggle.com/learn/natural-language-processing) - Kaggle's NLP fundamentals
 
 ### 🎥 Video Tutorials
 
-- [End-to-End ML Project](https://www.youtube.com/) - Full walkthrough
+- [Building NLP Applications](https://www.youtube.com/watch?v=QEaBAZQCtwE) - End-to-end NLP project with transformers
 
 ### 💪 Practice Resources
 

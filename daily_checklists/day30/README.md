@@ -65,12 +65,12 @@ Before starting, ensure you understand:
 
 ### 📝 Must-Read Articles
 
-- [Project Best Practices](https://github.com/) - GitHub guides
-- [ML Project Checklist](https://www.kaggle.com/) - Kaggle resources
+- [Image Classification with PyTorch](https://github.com/pytorch/examples/tree/main/mnist) - PyTorch image classification examples
+- [Image Classification Guide](https://www.kaggle.com/learn/computer-vision) - Kaggle's computer vision course
 
 ### 🎥 Video Tutorials
 
-- [End-to-End ML Project](https://www.youtube.com/) - Full walkthrough
+- [Building Image Classifiers](https://www.youtube.com/watch?v=ACmuBbuXn20) - Image classification with deep learning
 
 ### 💪 Practice Resources
 

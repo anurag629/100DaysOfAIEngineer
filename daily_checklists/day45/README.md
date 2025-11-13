@@ -65,12 +65,12 @@ Before starting, ensure you understand:
 
 ### 📝 Must-Read Articles
 
-- [Project Best Practices](https://github.com/) - GitHub guides
-- [ML Project Checklist](https://www.kaggle.com/) - Kaggle resources
+- [Object Detection with YOLO](https://github.com/ultralytics/yolov5) - YOLOv5 implementation and tutorials
+- [Object Detection Tutorial](https://www.kaggle.com/code/muhammadhananasghar/object-detection-yolov8) - Kaggle object detection guide
 
 ### 🎥 Video Tutorials
 
-- [End-to-End ML Project](https://www.youtube.com/) - Full walkthrough
+- [Building Surveillance Systems](https://www.youtube.com/watch?v=AG3DLmVCEG0) - Object detection and tracking tutorial
 
 ### 💪 Practice Resources
 

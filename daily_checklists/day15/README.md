@@ -65,12 +65,12 @@ Before starting, ensure you understand:
 
 ### 📝 Must-Read Articles
 
-- [Project Best Practices](https://github.com/) - GitHub guides
-- [ML Project Checklist](https://www.kaggle.com/) - Kaggle resources
+- [Project Best Practices](https://github.com/GokuMohandas/Made-With-ML) - ML project structure and best practices
+- [ML Project Checklist](https://www.kaggle.com/learn/intro-to-machine-learning) - Kaggle's ML fundamentals
 
 ### 🎥 Video Tutorials
 
-- [End-to-End ML Project](https://www.youtube.com/) - Full walkthrough
+- [End-to-End ML Project](https://www.youtube.com/watch?v=fiz1ORTBGpY) - Complete ML pipeline walkthrough
 
 ### 💪 Practice Resources
 
