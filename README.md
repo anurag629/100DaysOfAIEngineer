@@ -143,7 +143,7 @@ This curriculum was designed by someone who gives a shit about your SUCCESS, not
 
 ### 🎯 READY? PROVE IT.
 
-Click here to start: **[Day 1 Checklist](daily_checklists/day01.md)**
+Click here to start: **[Day 1 Checklist](daily_checklists/day01/)**
 
 Fork this repo. Share your commitment. Begin.
 
@@ -241,7 +241,7 @@ Each day includes:
 - 📊 Track your progress publicly
 - 🎯 Stay motivated through community support
 
-**👉 Start with [Day 1 Checklist](daily_checklists/day01.md)**
+**👉 Start with [Day 1 Checklist](daily_checklists/day01/)**
 
 ### What You'll Build
 
@@ -912,28 +912,59 @@ By Day 100, you should be able to:
 
 ```
 100DaysOfAIEngineer/
-├── Phase1_Foundations/
-│   ├── day01_numpy/
-│   ├── day02_pandas/
-│   └── ...
-├── Phase2_DeepLearning/
-├── Phase3_ComputerVision/
-├── Phase4_NLP/
-├── Phase5_LLMs/
-├── Phase6_MLOps/
-├── Phase7_Capstone/
-├── projects/
-│   ├── project1_ml_pipeline/
-│   ├── project2_image_classifier/
-│   └── ...
-├── resources/
-│   ├── cheatsheets/
-│   ├── papers/
-│   └── datasets/
-└── daily_logs/
-    ├── week01.md
-    └── ...
+│
+├── 📄 README.md                         # Main curriculum & overview
+├── 📄 SETUP_GUIDE.md                    # Environment setup instructions
+│
+├── 📚 Learning & Resources:
+│   ├── RESOURCES.md                     # Curated learning resources
+│   ├── PROJECT_GUIDE.md                 # Project specifications
+│   ├── BLOG_ARTICLES.md                 # 150+ curated blog posts
+│   └── FAQ.md                           # Frequently asked questions
+│
+├── 🤝 Community & Accountability:
+│   ├── COMMUNITY.md                     # CODERCOPS Discord integration
+│   ├── COMMUNITY_GUIDELINES.md          # Community rules
+│   ├── ACCOUNTABILITY.md                # Daily tracking system
+│   ├── PEER_REVIEW_GUIDE.md             # Code review guidelines
+│   └── HALL_OF_FAME.md                  # Graduate recognition
+│
+├── 🎯 Quality & Standards:
+│   ├── QUALITY_STANDARDS.md             # Completion criteria
+│   ├── ANTI_PATTERNS.md                 # Common mistakes to avoid
+│   └── FAILURE_RECOVERY.md              # Restart protocols
+│
+├── 💼 Career Development:
+│   └── JOB_HUNTING_PLAYBOOK.md          # Job search strategies
+│
+├── 📁 daily_checklists/                 # ⭐ CORE CURRICULUM
+│   ├── day01/                           # NumPy Basics
+│   │   ├── README.md                    # Daily guide with resources
+│   │   ├── code/                        # Your code here
+│   │   ├── notebooks/                   # Jupyter notebooks
+│   │   └── notes.md                     # Personal notes
+│   ├── day02/                           # Advanced NumPy
+│   ├── day03/                           # Pandas Fundamentals
+│   │   └── ...
+│   └── day100/                          # 🎉 Celebration & Reflection
+│
+└── 📁 weekly_reviews/                   # Weekly reflection & planning
+    ├── week01/
+    ├── week02/
+    │   └── ...
+    └── week14/
 ```
+
+**How to use this repository:**
+
+1. **Start here:** Read this README completely
+2. **Setup:** Follow [SETUP_GUIDE.md](SETUP_GUIDE.md)
+3. **Join community:** [COMMUNITY.md](COMMUNITY.md) - Discord is REQUIRED
+4. **Begin Day 1:** [daily_checklists/day01/](daily_checklists/day01/)
+5. **Track progress:** Update your daily README, post in Discord
+6. **Review weekly:** Complete weekly reflections in [weekly_reviews/](weekly_reviews/)
+7. **Build projects:** Push your code to each day's directory
+8. **Stay accountable:** Daily Discord posts, 3x/week social media
 
 ---
 
