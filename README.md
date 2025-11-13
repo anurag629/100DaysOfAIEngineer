@@ -6,6 +6,26 @@
 
 This is a structured 100-day program designed to transform you from a Python developer into a skilled AI Engineer. The curriculum is **project-focused**, **hands-on**, and covers the **modern AI stack** used in production environments.
 
+### 📅 NEW! Daily Checklists with Social Media Templates
+
+**🎯 [Daily Checklists Directory](daily_checklists/)** - Track your progress day by day!
+
+Each day includes:
+- ✅ **Checklist format** - Mark tasks as you complete them
+- ✅ **Learning objectives** - Clear daily goals
+- ✅ **Coding tasks** - Specific implementations
+- ✅ **Social media templates** - Ready-to-post updates for Twitter, LinkedIn, Instagram
+- ✅ **Reflection prompts** - Document your journey
+
+**Why share on social media?**
+- 📢 Accountability through public commitment
+- 🤝 Connect with other learners (#100DaysOfAIEngineer)
+- 💼 Build your professional brand
+- 📊 Track your progress publicly
+- 🎯 Stay motivated through community support
+
+**👉 Start with [Day 1 Checklist](daily_checklists/day01.md)**
+
 ### What You'll Build
 
 - 7 Major Real-World Projects

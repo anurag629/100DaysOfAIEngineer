@@ -1,0 +1,176 @@
+# Day 63: Prompt Engineering - Basics
+
+**Phase 5: LLMs** | **Date:** ___________
+
+---
+
+## 📚 Learning Objectives
+
+- [ ] Prompting
+- [ ] Zero-shot
+- [ ] Few-shot
+- [ ] Document learnings and share progress
+
+---
+
+## 📖 Reading & Resources
+
+### Recommended Articles:
+- [ ] Check [BLOG_ARTICLES.md](../BLOG_ARTICLES.md) for curated blog posts on today's topic
+- [ ] Review official documentation
+- [ ] Watch relevant tutorial videos
+
+### Key Resources:
+- [ ] [Curriculum Details](../DAILY_BREAKDOWN.md) - Day 63
+- [ ] [Project Guide](../PROJECT_GUIDE.md) - Reference for projects
+
+---
+
+## 💻 Coding Tasks
+
+### Setup & Preparation
+- [ ] Create notebook/script: `day63_prompt_engineering___basics.ipynb`
+- [ ] Import necessary libraries
+- [ ] Load data (if applicable)
+
+### Core Implementation
+- [ ] **Task 1:** Prompting
+- [ ] **Task 2:** Zero-shot
+- [ ] **Task 3:** Few-shot
+- [ ] **Testing:** Verify implementations work correctly
+- [ ] **Documentation:** Comment code and add markdown cells
+
+---
+
+## 🎯 Practice Exercises
+
+- [ ] **Exercise 1:** Complete hands-on tutorial
+- [ ] **Exercise 2:** Modify code with variations
+- [ ] **Exercise 3:** Debug and optimize implementation
+- [ ] **Bonus:** Explore additional use cases
+
+---
+
+## 🚀 Mini Project: Prompt library
+
+### Project Tasks:
+- [ ] Plan project structure
+- [ ] Implement core functionality
+- [ ] Test with different inputs
+- [ ] Document code and results
+- [ ] Save/export results
+
+**Deliverable:** Working implementation with documentation
+
+---
+
+## 📝 Notes & Reflections
+
+### Key Insights:
+```
+1. ____________________________________
+2. ____________________________________
+3. ____________________________________
+```
+
+### Challenges:
+```
+____________________________________
+____________________________________
+```
+
+### Questions:
+```
+____________________________________
+____________________________________
+```
+
+---
+
+## 📱 Social Media Post
+
+**Copy & paste to share your progress:**
+
+```
+🚀 Day 63/100 of #100DaysOfAIEngineer!
+
+Today's focus: Prompt Engineering - Basics
+
+✅ Prompting
+✅ Zero-shot
+✅ Few-shot
+
+Project: Prompt library
+
+Key learning: [Share your biggest insight]
+
+#PromptEngineering #LLM #MachineLearning #AI #100DaysOfCode #LearningInPublic
+
+[Add screenshot or code snippet]
+```
+
+**Alternative (Twitter/X):**
+
+```
+Day 63/100 ✅
+
+Prompt Engineering - Basics
+
+Today's wins:
+✓ Prompting
+✓ Zero-shot
+✓ Project: Prompt library
+
+#PromptEngineering #LLM #AI #100DaysOfCode
+```
+
+**LinkedIn (Professional):**
+
+```
+Day 63 of my 100-day AI Engineering journey! 🎯
+
+Focus: Prompt Engineering - Basics
+
+What I accomplished:
+→ Prompting
+→ Zero-shot
+→ Few-shot
+
+Today's project: Prompt library
+
+Key takeaway: [Your insight about today's learning]
+
+The journey to becoming an AI Engineer requires consistency and deliberate practice. Each day builds on the last.
+
+#PromptEngineering #LLM #ArtificialIntelligence #MachineLearning #ProfessionalDevelopment
+
+Who else is on a learning journey? Let's connect! 🤝
+```
+
+---
+
+## ✅ End of Day Checklist
+
+- [ ] All coding tasks completed
+- [ ] Mini project finished
+- [ ] Code documented and saved
+- [ ] Pushed to GitHub
+- [ ] Posted on social media
+- [ ] Updated learning log
+- [ ] Reviewed tomorrow's topics
+
+---
+
+**Time Spent:** ______ hours
+**Energy Level:** ⭐⭐⭐⭐⭐
+**Confidence (1-10):** ______
+
+**Tomorrow's Goal:** _______________________________________________
+
+---
+
+[← Day 62](day62.md) | [Back to Index](README.md) | [Day 64 →](day64.md)
+
+---
+
+**Great work on Day 63! Keep pushing forward!** 💪🔥
