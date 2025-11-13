@@ -65,12 +65,12 @@ Before starting, ensure you understand:
 
 ### 📝 Must-Read Articles
 
-- [Project Best Practices](https://github.com/) - GitHub guides
-- [ML Project Checklist](https://www.kaggle.com/) - Kaggle resources
+- [LangChain RAG Tutorial](https://github.com/langchain-ai/langchain) - Building RAG applications with LangChain
+- [RAG Systems Guide](https://www.kaggle.com/code/ammarnassanalhajali/rag-using-llamaindex-and-mistral-7b) - Kaggle RAG implementation example
 
 ### 🎥 Video Tutorials
 
-- [End-to-End ML Project](https://www.youtube.com/) - Full walkthrough
+- [Building Production RAG Systems](https://www.youtube.com/watch?v=sVcwVQRHIc8) - Complete RAG application tutorial
 
 ### 💪 Practice Resources
 

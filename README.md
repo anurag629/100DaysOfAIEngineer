@@ -914,7 +914,6 @@ By Day 100, you should be able to:
 100DaysOfAIEngineer/
 │
 ├── 📄 README.md                         # Main curriculum & overview
-├── 📄 SETUP_GUIDE.md                    # Environment setup instructions
 │
 ├── 📚 Learning & Resources:
 │   ├── RESOURCES.md                     # Curated learning resources
@@ -958,13 +957,12 @@ By Day 100, you should be able to:
 **How to use this repository:**
 
 1. **Start here:** Read this README completely
-2. **Setup:** Follow [SETUP_GUIDE.md](SETUP_GUIDE.md)
-3. **Join community:** [COMMUNITY.md](COMMUNITY.md) - Discord is REQUIRED
-4. **Begin Day 1:** [daily_checklists/day01/](daily_checklists/day01/)
-5. **Track progress:** Update your daily README, post in Discord
-6. **Review weekly:** Complete weekly reflections in [weekly_reviews/](weekly_reviews/)
-7. **Build projects:** Push your code to each day's directory
-8. **Stay accountable:** Daily Discord posts, 3x/week social media
+2. **Join community:** [COMMUNITY.md](COMMUNITY.md) - Discord is REQUIRED
+3. **Begin Day 1:** [daily_checklists/day01/](daily_checklists/day01/)
+4. **Track progress:** Update your daily README, post in Discord
+5. **Review weekly:** Complete weekly reflections in [weekly_reviews/](weekly_reviews/)
+6. **Build projects:** Push your code to each day's directory
+7. **Stay accountable:** Daily Discord posts, 3x/week social media
 
 ---
 

@@ -65,12 +65,12 @@ Before starting, ensure you understand:
 
 ### 📝 Must-Read Articles
 
-- [Project Best Practices](https://github.com/) - GitHub guides
-- [ML Project Checklist](https://www.kaggle.com/) - Kaggle resources
+- [Capstone Project Ideas](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) - 500+ AI project ideas with code
+- [ML Project Portfolio Guide](https://www.kaggle.com/discussions/getting-started/265314) - Building impressive ML portfolios
 
 ### 🎥 Video Tutorials
 
-- [End-to-End ML Project](https://www.youtube.com/) - Full walkthrough
+- [Capstone ML Projects](https://www.youtube.com/watch?v=lyWxvWkHTOs) - Planning and executing capstone projects
 
 ### 💪 Practice Resources
 

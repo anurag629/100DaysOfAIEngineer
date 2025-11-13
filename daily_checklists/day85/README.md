@@ -65,12 +65,12 @@ Before starting, ensure you understand:
 
 ### 📝 Must-Read Articles
 
-- [Project Best Practices](https://github.com/) - GitHub guides
-- [ML Project Checklist](https://www.kaggle.com/) - Kaggle resources
+- [MLOps Best Practices](https://github.com/visenger/awesome-mlops) - Comprehensive MLOps resources and tools
+- [ML in Production Guide](https://www.kaggle.com/code/gauravduttakiit/mlops-made-easy-guide) - Kaggle MLOps implementation
 
 ### 🎥 Video Tutorials
 
-- [End-to-End ML Project](https://www.youtube.com/) - Full walkthrough
+- [MLOps and Production ML](https://www.youtube.com/watch?v=OEiNnfdxBRE) - End-to-end MLOps pipeline tutorial
 
 ### 💪 Practice Resources
 
