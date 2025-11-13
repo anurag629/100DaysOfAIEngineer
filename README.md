@@ -594,6 +594,25 @@ Create a daily log:
 
 ## 🎓 Learning Resources
 
+### 📝 Blog Articles (NEW!)
+
+**🔥 [BLOG_ARTICLES.md](BLOG_ARTICLES.md) - 150+ Curated Blog Posts**
+
+We've researched and compiled **150+ high-quality blog articles** from trusted sources for every topic in the curriculum:
+
+- ✅ **Organized by Phase**: Articles matched to each day's learning
+- ✅ **2024-2025 Content**: Latest tutorials and best practices
+- ✅ **Code Examples**: All include practical implementations
+- ✅ **Verified Quality**: Hand-picked from top platforms (Medium, Towards Data Science, official docs)
+
+**Topics Include:** NumPy, Pandas, ML algorithms, PyTorch, CNNs, YOLO, NLP, BERT, Transformers, LLMs, Fine-tuning, RAG, LangChain, Vector Databases, MLOps, Docker, and more!
+
+**👉 See [BLOG_ARTICLES.md](BLOG_ARTICLES.md) for the complete collection**
+
+Also check [RESOURCES.md](RESOURCES.md) for comprehensive books, courses, tools, and platforms.
+
+---
+
 ### Free Courses
 - **Fast.ai** - Practical Deep Learning
 - **Stanford CS229** - Machine Learning
