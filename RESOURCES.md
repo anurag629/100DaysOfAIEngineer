@@ -4,6 +4,64 @@ A curated list of the best resources for your 100-day journey.
 
 ---
 
+## 🌐 CoderCops Community (MOST IMPORTANT RESOURCE!)
+
+**Your #1 resource for success is the COMMUNITY.**
+
+### **🎯 Discord Server - MANDATORY**
+
+**Join NOW:** **https://discord.gg/9eFXYntYa8**
+
+**Why this is your most valuable resource:**
+- ✅ **Get unstuck in minutes** - Community answers your questions fast
+- ✅ **Code reviews** - Learn from feedback on your projects
+- ✅ **Accountability** - Daily check-ins keep you consistent
+- ✅ **Motivation** - See others crushing it, stay inspired
+- ✅ **Networking** - Connect with AI Engineers and employers
+- ✅ **Job opportunities** - Members share openings
+
+**Key Channels:**
+- `#100daysofaiengineer` - Daily updates and quick questions
+- `100daysofaiengineer forum` - Project showcases and detailed discussions
+- Weekly code review sessions
+- Monthly graduation ceremonies
+
+**Related Guides:**
+- 📘 [COMMUNITY.md](COMMUNITY.md) - How to engage effectively
+- 📜 [COMMUNITY_GUIDELINES.md](COMMUNITY_GUIDELINES.md) - Rules and expectations
+- 📊 [ACCOUNTABILITY.md](ACCOUNTABILITY.md) - Daily posting requirements
+- 👥 [PEER_REVIEW_GUIDE.md](PEER_REVIEW_GUIDE.md) - Get and give code reviews
+
+---
+
+### **📱 CoderCops Social Media - Follow All Platforms**
+
+**Username on ALL platforms:** **@codercops**
+
+- 🐦 **Twitter/X:** https://twitter.com/codercops
+  - Daily AI tips, quick wins, community highlights
+  - Use #100DaysOfAIEngineer in your posts
+
+- 💼 **LinkedIn:** https://linkedin.com/company/codercops
+  - Professional content, career advice, job postings
+  - Connect with alumni and industry professionals
+
+- 📸 **Instagram:** https://instagram.com/codercops
+  - Visual progress, project showcases, motivation
+  - Behind-the-scenes of AI Engineering
+
+- 🎥 **YouTube:** https://youtube.com/@codercops
+  - Project walkthroughs, tutorials, interviews
+  - Deep dives into AI concepts
+
+- 💻 **GitHub:** https://github.com/codercops
+  - Open source projects, code templates
+  - Example implementations
+
+**Engage actively, tag @codercops, build your professional brand in public!**
+
+---
+
 ## 📝 Blog Articles Collection (NEW!)
 
 **🔥 [BLOG_ARTICLES.md](BLOG_ARTICLES.md) - 150+ Curated Blog Posts for Each Topic!**
