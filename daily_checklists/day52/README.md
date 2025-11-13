@@ -137,10 +137,10 @@ Build a practical project applying Named Entity Recognition concepts learned tod
 
 ## ⚠️ Common Pitfalls to Avoid
 
-❌ Skipping fundamentals and jumping ahead
-❌ Not testing code with different inputs
-❌ Copy-pasting without understanding
-❌ Ignoring error messages
+- [ ] Skipping fundamentals and jumping ahead
+- [ ] Not testing code with different inputs
+- [ ] Copy-pasting without understanding
+- [ ] Ignoring error messages
 
 ---
 
@@ -180,7 +180,7 @@ Day 52/100 ✅
 
 🎯 Topic: Named Entity Recognition
 
-✅ What I learned:
+- [ ] What I learned:
 - [Key learning 1]
 - [Key learning 2]
 - [Key learning 3]

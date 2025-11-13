@@ -14,10 +14,10 @@ I didn't spend countless hours researching, curating 150+ blog articles, creatin
 
 **Before you scroll down, answer these questions HONESTLY:**
 
-❓ **Can you dedicate 2-4 hours EVERY SINGLE DAY for 100 days?**
-❓ **Can you code, build projects, and debug errors without giving up?**
-❓ **Are you willing to share your learning publicly and hold yourself accountable?**
-❓ **Can you handle failure, frustration, and the steep learning curve?**
+- [ ] **Can you dedicate 2-4 hours EVERY SINGLE DAY for 100 days?**
+- [ ] **Can you code, build projects, and debug errors without giving up?**
+- [ ] **Are you willing to share your learning publicly and hold yourself accountable?**
+- [ ] **Can you handle failure, frustration, and the steep learning curve?**
 
 ### ⚡ IF YOU ANSWERED "NO" OR "MAYBE" TO ANY OF THESE - CLOSE THIS TAB NOW. ⚡
 
@@ -39,22 +39,22 @@ I didn't spend countless hours researching, curating 150+ blog articles, creatin
 ### 🎯 THE CHALLENGE - ACCEPT OR GTFO:
 
 #### **I WILL:**
-✅ Code for 2-4 hours EVERY DAY for 100 consecutive days (NO EXCEPTIONS)
-✅ Complete ALL coding tasks, exercises, and projects for each day
-✅ Share my progress publicly EVERY SINGLE DAY using #100DaysOfAIEngineer
-✅ Push my code to GitHub daily (no matter how ugly it is)
-✅ Help others in the community when I can
-✅ NOT give up when shit gets hard (because it WILL get hard)
-✅ Build all 7 major projects from scratch
-✅ Document my learning journey publicly
+- [ ] Code for 2-4 hours EVERY DAY for 100 consecutive days (NO EXCEPTIONS)
+- [ ] Complete ALL coding tasks, exercises, and projects for each day
+- [ ] Share my progress publicly EVERY SINGLE DAY using #100DaysOfAIEngineer
+- [ ] Push my code to GitHub daily (no matter how ugly it is)
+- [ ] Help others in the community when I can
+- [ ] NOT give up when shit gets hard (because it WILL get hard)
+- [ ] Build all 7 major projects from scratch
+- [ ] Document my learning journey publicly
 
 #### **I WILL NOT:**
-❌ Skip a single day
-❌ Copy-paste code without understanding
-❌ Make excuses
-❌ Quit when it gets difficult
-❌ Stay silent - I will engage with the community
-❌ Half-ass any project or exercise
+- [ ] Skip a single day
+- [ ] Copy-paste code without understanding
+- [ ] Make excuses
+- [ ] Quit when it gets difficult
+- [ ] Stay silent - I will engage with the community
+- [ ] Half-ass any project or exercise
 
 ---
 
@@ -94,13 +94,13 @@ Day 1 starts NOW. Who's with me? 🔥
 
 After 100 days of this brutal, unforgiving, kick-your-ass curriculum, you'll:
 
-✅ Build ML models from scratch in NumPy (not just using libraries like a script kiddie)
-✅ Deploy production LLM applications with RAG, vector databases, and proper MLOps
-✅ Implement neural networks, CNNs, transformers from first principles
-✅ Have a portfolio with 7 production-grade projects that'll make recruiters drool
-✅ Understand AI/ML at a level that 90% of "AI Engineers" don't
-✅ Be able to pass technical interviews at top tech companies
-✅ Actually DESERVE to call yourself an AI Engineer
+- [ ] Build ML models from scratch in NumPy (not just using libraries like a script kiddie)
+- [ ] Deploy production LLM applications with RAG, vector databases, and proper MLOps
+- [ ] Implement neural networks, CNNs, transformers from first principles
+- [ ] Have a portfolio with 7 production-grade projects that'll make recruiters drool
+- [ ] Understand AI/ML at a level that 90% of "AI Engineers" don't
+- [ ] Be able to pass technical interviews at top tech companies
+- [ ] Actually DESERVE to call yourself an AI Engineer
 
 ### 💰 THE PAYOFF:
 
@@ -206,11 +206,11 @@ Progress: [What you built]
 
 ### **🔥 First Steps RIGHT NOW:**
 
-1. ✅ **Join Discord:** https://discord.gg/9eFXYntYa8
-2. ✅ **Introduce yourself** in #introductions (if channel exists)
-3. ✅ **Follow @CODERCOPS** on all platforms
-4. ✅ **Post your commitment** on social media (template above)
-5. ✅ **Start Day 1** (link below)
+1. [ ] **Join Discord:** https://discord.gg/9eFXYntYa8
+2. [ ] **Introduce yourself** in #introductions (if channel exists)
+3. [ ] **Follow @CODERCOPS** on all platforms
+4. [ ] **Post your commitment** on social media (template above)
+5. [ ] **Start Day 1** (link below)
 
 **Related Docs:**
 - 📘 [COMMUNITY.md](COMMUNITY.md) - How to engage in Discord
@@ -896,15 +896,15 @@ Also check [RESOURCES.md](RESOURCES.md) for comprehensive books, courses, tools,
 
 By Day 100, you should be able to:
 
-✅ Build and deploy ML models end-to-end
-✅ Implement neural networks from scratch
-✅ Fine-tune and deploy LLMs
-✅ Create RAG applications
-✅ Build computer vision applications
-✅ Design and implement MLOps pipelines
-✅ Read and implement research papers
-✅ Contribute to open source ML projects
-✅ Pass AI Engineer technical interviews
+- [ ] Build and deploy ML models end-to-end
+- [ ] Implement neural networks from scratch
+- [ ] Fine-tune and deploy LLMs
+- [ ] Create RAG applications
+- [ ] Build computer vision applications
+- [ ] Design and implement MLOps pipelines
+- [ ] Read and implement research papers
+- [ ] Contribute to open source ML projects
+- [ ] Pass AI Engineer technical interviews
 
 ---
 

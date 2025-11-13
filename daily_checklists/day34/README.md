@@ -137,10 +137,10 @@ Build a practical project applying Real-Time Object Detection concepts learned t
 
 ## ⚠️ Common Pitfalls to Avoid
 
-❌ Skipping fundamentals and jumping ahead
-❌ Not testing code with different inputs
-❌ Copy-pasting without understanding
-❌ Ignoring error messages
+- [ ] Skipping fundamentals and jumping ahead
+- [ ] Not testing code with different inputs
+- [ ] Copy-pasting without understanding
+- [ ] Ignoring error messages
 
 ---
 
@@ -180,7 +180,7 @@ Day 34/100 ✅
 
 🎯 Topic: Real-Time Object Detection
 
-✅ What I learned:
+- [ ] What I learned:
 - [Key learning 1]
 - [Key learning 2]
 - [Key learning 3]

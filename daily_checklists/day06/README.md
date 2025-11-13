@@ -136,10 +136,10 @@ Build a practical project applying Interactive Visualizations & EDA concepts lea
 
 ## ⚠️ Common Pitfalls to Avoid
 
-❌ Skipping fundamentals and jumping ahead
-❌ Not testing code with different inputs
-❌ Copy-pasting without understanding
-❌ Ignoring error messages
+- [ ] Skipping fundamentals and jumping ahead
+- [ ] Not testing code with different inputs
+- [ ] Copy-pasting without understanding
+- [ ] Ignoring error messages
 
 ---
 
@@ -180,7 +180,7 @@ Day 6/100 ✅
 
 🎯 Topic: Interactive Visualizations & EDA
 
-✅ What I learned:
+- [ ] What I learned:
 - [Key learning 1]
 - [Key learning 2]
 - [Key learning 3]

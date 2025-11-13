@@ -137,10 +137,10 @@ Build a practical project applying Capstone - Model Integration concepts learned
 
 ## ⚠️ Common Pitfalls to Avoid
 
-❌ Skipping fundamentals and jumping ahead
-❌ Not testing code with different inputs
-❌ Copy-pasting without understanding
-❌ Ignoring error messages
+- [ ] Skipping fundamentals and jumping ahead
+- [ ] Not testing code with different inputs
+- [ ] Copy-pasting without understanding
+- [ ] Ignoring error messages
 
 ---
 
@@ -178,7 +178,7 @@ Day 97/100 ✅
 
 🎯 Topic: Capstone - Model Integration
 
-✅ What I learned:
+- [ ] What I learned:
 - [Key learning 1]
 - [Key learning 2]
 - [Key learning 3]

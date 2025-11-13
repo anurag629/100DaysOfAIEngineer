@@ -133,10 +133,10 @@ Build a complete project demonstrating mastery of concepts from previous days.
 
 ## ⚠️ Common Pitfalls to Avoid
 
-❌ Starting coding without planning
-❌ Skipping edge cases and error handling
-❌ Poor code documentation
-❌ Not testing thoroughly
+- [ ] Starting coding without planning
+- [ ] Skipping edge cases and error handling
+- [ ] Poor code documentation
+- [ ] Not testing thoroughly
 
 ---
 
@@ -176,7 +176,7 @@ Day 15/100 ✅
 
 🎯 Topic: PROJECT 1: End-to-End ML Pipeline
 
-✅ What I learned:
+- [ ] What I learned:
 - [Key learning 1]
 - [Key learning 2]
 - [Key learning 3]

@@ -138,10 +138,10 @@ Build a practical project applying Tree-Based Models concepts learned today.
 
 ## ⚠️ Common Pitfalls to Avoid
 
-❌ Skipping fundamentals and jumping ahead
-❌ Not testing code with different inputs
-❌ Copy-pasting without understanding
-❌ Ignoring error messages
+- [ ] Skipping fundamentals and jumping ahead
+- [ ] Not testing code with different inputs
+- [ ] Copy-pasting without understanding
+- [ ] Ignoring error messages
 
 ---
 
@@ -181,7 +181,7 @@ Day 11/100 ✅
 
 🎯 Topic: Tree-Based Models
 
-✅ What I learned:
+- [ ] What I learned:
 - [Key learning 1]
 - [Key learning 2]
 - [Key learning 3]
