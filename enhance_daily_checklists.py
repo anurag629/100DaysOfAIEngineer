@@ -36,8 +36,15 @@ DAYS_DATA = {
                 "[NumPy Crash Course](https://www.youtube.com/watch?v=8Y0qQEh7dJg) - 30 mins"
             ],
             "practice": [
-                "[NumPy Exercises](https://github.com/rougier/numpy-100) - 100 exercises",
-                "[W3Schools NumPy](https://www.w3schools.com/python/numpy/) - Interactive"
+                "[NumPy Exercises on GitHub](https://github.com/rougier/numpy-100) - 100 exercises",
+                "[W3Schools NumPy](https://www.w3schools.com/python/numpy/) - Interactive tutorials",
+                "[HackerRank Python Practice](https://www.hackerrank.com/domains/python) - NumPy challenges",
+                "[Kaggle Learn: Python](https://www.kaggle.com/learn/python) - Interactive course"
+            ],
+            "interactive": [
+                "[Google Colab NumPy Tutorial](https://colab.research.google.com) - Free GPU notebooks",
+                "[DataCamp NumPy Course](https://www.datacamp.com/courses/intro-to-python-for-data-science) - Interactive",
+                "[Exercism Python Track](https://exercism.org/tracks/python) - Mentored exercises"
             ]
         },
         "key_concepts": [
@@ -160,6 +167,12 @@ By the end of today, you will:
             content += "### 💪 Practice Resources\n\n"
             for practice in resources["practice"]:
                 content += f"- {practice}\n"
+            content += "\n"
+
+        if resources.get("interactive"):
+            content += "### 🎮 Interactive Platforms\n\n"
+            for platform in resources["interactive"]:
+                content += f"- {platform}\n"
             content += "\n"
 
         if resources.get("docs"):

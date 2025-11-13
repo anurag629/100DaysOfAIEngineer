@@ -76,8 +76,16 @@ Before starting, ensure you understand:
 
 ### 💪 Practice Resources
 
-- [NumPy Exercises](https://github.com/rougier/numpy-100) - 100 exercises
-- [W3Schools NumPy](https://www.w3schools.com/python/numpy/) - Interactive
+- [NumPy Exercises on GitHub](https://github.com/rougier/numpy-100) - 100 exercises
+- [W3Schools NumPy](https://www.w3schools.com/python/numpy/) - Interactive tutorials
+- [HackerRank Python Practice](https://www.hackerrank.com/domains/python) - NumPy challenges
+- [Kaggle Learn: Python](https://www.kaggle.com/learn/python) - Interactive course
+
+### 🎮 Interactive Platforms
+
+- [Google Colab NumPy Tutorial](https://colab.research.google.com) - Free GPU notebooks
+- [DataCamp NumPy Course](https://www.datacamp.com/courses/intro-to-python-for-data-science) - Interactive
+- [Exercism Python Track](https://exercism.org/tracks/python) - Mentored exercises
 
 ---
 
