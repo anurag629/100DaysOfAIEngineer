@@ -23,11 +23,13 @@
 ### **Minimum Review Schedule:**
 
 **Weekly Reviews (Required):**
+
 - End of each week (Days 7, 14, 21, etc.)
 - Post your week's best code in Discord forum
 - Request review from 2-3 community members
 
 **Project Reviews (Highly Recommended):**
+
 - Day 15 (Project 1: ML Pipeline)
 - Day 30 (Project 2: Image Classifier)
 - Day 45 (Project 3: Surveillance System)
@@ -37,6 +39,7 @@
 - Day 100 (Capstone Project)
 
 **Ad-Hoc Reviews (Anytime):**
+
 - Stuck on a bug for >1 hour
 - Unsure if approach is correct
 - Want validation before moving forward
@@ -51,7 +54,9 @@
 **Use this for:** Quick questions, daily code snippets, brief feedback
 
 **Template:**
+
 ```
+
 📝 QUICK REVIEW REQUEST - Day X
 
 Topic: [Brief description]
@@ -62,10 +67,13 @@ Code: [GitHub link or snippet below]
 Specific question: [What you want feedback on]
 
 @username @username - Would love your eyes on this! 👀
+
 ```
 
 **Example:**
+
 ```
+
 📝 QUICK REVIEW REQUEST - Day 23
 
 Topic: CNN architecture for image classification
@@ -76,6 +84,7 @@ Code: https://github.com/yourname/100days/blob/main/day23_cnn.py
 Specific question: Is my conv layer sizing correct? Getting dimension mismatch errors.
 
 @alice @bob - Would love your eyes on this! 👀
+
 ```
 
 ---
@@ -85,7 +94,9 @@ Specific question: Is my conv layer sizing correct? Getting dimension mismatch e
 **Use this for:** Weekly reviews, project reviews, comprehensive feedback
 
 **Template:**
+
 ```
+
 Title: [Week X Review] or [Day X Project Review] - [Topic]
 
 ---
@@ -110,6 +121,7 @@ Title: [Week X Review] or [Day X Project Review] - [Topic]
 ## 🎯 What I Want Feedback On
 
 Please review:
+
 1. [ ] Code structure and organization
 2. [ ] Algorithm efficiency
 3. [ ] Edge case handling
@@ -118,6 +130,7 @@ Please review:
 6. [ ] Security issues
 
 Specific concerns:
+
 - [Concern 1]
 - [Concern 2]
 
@@ -130,12 +143,15 @@ Specific concerns:
 ## 📝 My Self-Assessment
 
 **What I think I did well:**
+
 - _______________
 
 **What I'm unsure about:**
+
 - _______________
 
 **Known issues:**
+
 - _______________
 
 ## 🙏 Looking for reviewers!
@@ -143,10 +159,13 @@ Specific concerns:
 @username @username @username - Would appreciate your feedback!
 
 Tag: #codereview #weekX #[topic]
+
 ```
 
 **Example:**
+
 ```
+
 Title: [Week 4 Review] - Image Classification CNN with PyTorch
 
 ---
@@ -171,6 +190,7 @@ Built a CNN classifier for CIFAR-10 achieving 87% accuracy. Implemented custom a
 ## 🎯 What I Want Feedback On
 
 Please review:
+
 1. [x] Code structure and organization
 2. [x] Model architecture choices
 3. [x] Training loop implementation
@@ -178,6 +198,7 @@ Please review:
 5. [x] PyTorch best practices
 
 Specific concerns:
+
 - Is my learning rate schedule appropriate?
 - Should I use more aggressive data augmentation?
 
@@ -190,15 +211,18 @@ Specific concerns:
 ## 📝 My Self-Assessment
 
 **What I think I did well:**
+
 - Clean separation of model, training, and evaluation code
 - Good documentation with docstrings
 - Proper use of GPU acceleration
 
 **What I'm unsure about:**
+
 - Whether my architecture is standard or overcomplicated
 - If my regularization (dropout + weight decay) is too much
 
 **Known issues:**
+
 - Training takes 2 hours (seems slow?)
 - Validation accuracy plateaus around epoch 40
 
@@ -207,6 +231,7 @@ Specific concerns:
 @alice @bob @charlie - Would appreciate your feedback!
 
 Tag: #codereview #week4 #cnn #pytorch
+
 ```
 
 ---
@@ -216,6 +241,7 @@ Tag: #codereview #week4 #cnn #pytorch
 ### **The Golden Rule:**
 
 **Review code the way you'd want YOUR code reviewed:**
+
 - ✅ Be specific and constructive
 - ✅ Explain WHY, not just WHAT
 - ✅ Offer alternatives, not just criticism
@@ -229,6 +255,7 @@ Tag: #codereview #week4 #cnn #pytorch
 ### **Code Review Template (Forum Response):**
 
 ```
+
 ## 👀 Code Review - @username's [Week X / Day X Project]
 
 **Reviewed by:** @yourname
@@ -249,13 +276,19 @@ Tag: #codereview #week4 #cnn #pytorch
 #### **1. [Issue/Area]**
 
 **Current approach:**
+
 ```python
+
 # Their code snippet
+
 ```
 
 **Suggested improvement:**
+
 ```python
+
 # Your suggested code
+
 ```
 
 **Why:** [Explanation of benefit]
@@ -283,12 +316,15 @@ Tag: #codereview #week4 #cnn #pytorch
 ### 🎯 Priority
 
 **Must fix:**
+
 - [ ] [Critical issue that breaks code]
 
 **Should fix:**
+
 - [ ] [Important but not blocking]
 
 **Nice to have:**
+
 - [ ] [Minor improvements]
 
 ---
@@ -296,6 +332,7 @@ Tag: #codereview #week4 #cnn #pytorch
 ### 📚 Learning Resources
 
 Based on your code, you might find these helpful:
+
 - [Resource 1 for specific improvement]
 - [Resource 2 for concept they're learning]
 
@@ -309,6 +346,7 @@ Based on your code, you might find these helpful:
 **Summary:** [1-2 sentences of overall feedback]
 
 **Keep it up!** 💪
+
 ```
 
 ---
@@ -316,6 +354,7 @@ Based on your code, you might find these helpful:
 ### **Example Review:**
 
 ```
+
 ## 👀 Code Review - @john's Week 4 CNN Project
 
 **Reviewed by:** @alice
@@ -338,12 +377,15 @@ Based on your code, you might find these helpful:
 #### **1. Data Loading Efficiency**
 
 **Current approach:**
+
 ```python
 dataset = torchvision.datasets.CIFAR10(root='./data', train=True, download=True)
 dataloader = DataLoader(dataset, batch_size=32, shuffle=True)
+
 ```
 
 **Suggested improvement:**
+
 ```python
 dataset = torchvision.datasets.CIFAR10(root='./data', train=True, download=True)
 dataloader = DataLoader(
@@ -353,6 +395,7 @@ dataloader = DataLoader(
     num_workers=4,  # Add this
     pin_memory=True  # Add this for GPU
 )
+
 ```
 
 **Why:** `num_workers=4` uses multiple processes for data loading (faster training). `pin_memory=True` speeds up CPU-to-GPU transfer. Should cut your training time in half.
@@ -380,13 +423,16 @@ dataloader = DataLoader(
 ### 🎯 Priority
 
 **Must fix:**
+
 - [ ] None - code works correctly!
 
 **Should fix:**
+
 - [ ] Add num_workers to DataLoader (big performance win)
 - [ ] Implement learning rate scheduling
 
 **Nice to have:**
+
 - [ ] Add more data augmentation
 - [ ] Add model checkpointing (save best model)
 - [ ] Add tensorboard logging for training curves
@@ -396,6 +442,7 @@ dataloader = DataLoader(
 ### 📚 Learning Resources
 
 Based on your code, you might find these helpful:
+
 - PyTorch Performance Tuning: https://pytorch.org/tutorials/recipes/recipes/tuning_guide.html
 - CIFAR-10 Best Practices: https://keras.io/examples/cifar10_cnn/
 
@@ -409,6 +456,7 @@ Based on your code, you might find these helpful:
 **Summary:** This is solid work. Your code structure and PyTorch usage are both strong. Main improvements are in training efficiency and learning rate management. You're on the right track!
 
 **Keep it up!** 💪
+
 ```
 
 ---
@@ -423,17 +471,25 @@ Based on your code, you might find these helpful:
 ### **How to Respond:**
 
 **1. Always Thank the Reviewer**
+
 ```
+
 Thanks @reviewer for the detailed feedback! Really appreciate you taking the time. 🙏
+
 ```
 
 **2. Ask Clarifying Questions**
+
 ```
+
 On point #2 about learning rate scheduling - should I implement this from scratch or use the PyTorch scheduler? Any specific scheduler you'd recommend for CNNs?
+
 ```
 
 **3. Report Back After Implementing**
+
 ```
+
 UPDATE: Implemented @alice's suggestions!
 
 ✅ Added num_workers=4 to DataLoader
@@ -441,19 +497,24 @@ UPDATE: Implemented @alice's suggestions!
 ✅ Added more data augmentation
 
 Results:
+
 - Training time: 2 hours → 50 minutes! 🎉
 - Accuracy: 87% → 91%! 🔥
 
 Thanks again @alice - those changes made a huge difference!
+
 ```
 
 **4. If You Disagree, Discuss Respectfully**
+
 ```
+
 Thanks for the suggestion on [X]. I considered that approach but went with [Y] because [reasoning].
 
 Do you think [Y] is problematic? Or is it just a preference thing?
 
 Always open to learning if there's something I'm missing!
+
 ```
 
 ---
@@ -465,12 +526,15 @@ Always open to learning if there's something I'm missing!
 **Week 1: Find 3 Accountability Partners**
 
 Post in #100daysofaiengineer:
+
 ```
+
 🤝 LOOKING FOR REVIEW PARTNERS
 
 I'm on Day X of the challenge.
 
 Looking for 2-3 people around the same level to:
+
 - Exchange weekly code reviews
 - Help debug when stuck
 - Share learning resources
@@ -480,9 +544,11 @@ My timezone: [Timezone]
 My commitment: Will review your code within 24 hours
 
 Reply or DM if interested! 🙏
+
 ```
 
 **Create a Review Squad:**
+
 - Group of 3-5 people
 - Private Discord thread or separate channel
 - Commit to reviewing each other's code weekly
@@ -497,6 +563,7 @@ Reply or DM if interested! 🙏
 In your GitHub repo, create `REVIEW_LOG.md`:
 
 ```markdown
+
 # Code Review Log
 
 ## Reviews I've Given: X
@@ -516,12 +583,15 @@ In your GitHub repo, create `REVIEW_LOG.md`:
 ## Impact of Reviews
 
 **Code improvements made from reviews:**
+
 1. [Specific improvement from review]
 2. [Specific improvement from review]
 
 **Concepts I learned from reviewing others:**
+
 1. [Concept learned]
 2. [Concept learned]
+
 ```
 
 ---
@@ -576,6 +646,7 @@ In your GitHub repo, create `REVIEW_LOG.md`:
 **Monday:** Implement feedback and report back
 
 **This creates a rhythm:**
+
 - End of week: Reflect and share
 - Weekend: Learn from others
 - Start of week: Improve and continue
@@ -587,6 +658,7 @@ In your GitHub repo, create `REVIEW_LOG.md`:
 ### **Beginner (Weeks 1-4):**
 
 ```
+
 📝 Week 1 Review Request
 
 I'm brand new to NumPy. This is my first time using arrays seriously.
@@ -594,15 +666,18 @@ I'm brand new to NumPy. This is my first time using arrays seriously.
 Code: [link to basic NumPy operations]
 
 Please review:
+
 - Am I using NumPy correctly or fighting against it?
 - Are there obvious beginner mistakes I'm making?
 
 Be gentle, but honest! I want to learn the right way. 🙏
+
 ```
 
 ### **Intermediate (Weeks 5-10):**
 
 ```
+
 📝 Week 7 Review Request
 
 Built my first CNN from scratch (no transfer learning yet).
@@ -610,16 +685,19 @@ Built my first CNN from scratch (no transfer learning yet).
 Code: [link to CNN implementation]
 
 Please review:
+
 - Is my architecture reasonable?
 - Am I following PyTorch best practices?
 - Any obvious inefficiencies?
 
 I understand the concepts but want to make sure implementation is solid.
+
 ```
 
 ### **Advanced (Weeks 11+):**
 
 ```
+
 📝 Week 12 Review Request - Transfer Learning Project
 
 Implemented fine-tuning pipeline with EfficientNet for custom dataset.
@@ -627,11 +705,13 @@ Implemented fine-tuning pipeline with EfficientNet for custom dataset.
 Code: [link to full project]
 
 Please review:
+
 - Model architecture decisions (unfrozen layers strategy)
 - Training loop edge cases and error handling
 - Code organization for production readiness
 
 Looking for advanced feedback - be ruthless! 🔥
+
 ```
 
 ---
@@ -646,7 +726,9 @@ Looking for advanced feedback - be ruthless! 🔥
 - 💎 **Diamond Reviewer:** 50+ reviews given
 
 **Announce milestones in Discord:**
+
 ```
+
 🎉 Just hit 15 code reviews given! 🥈
 
 I've learned SO MUCH by reviewing others' code. Seeing different approaches has improved my own coding significantly.
@@ -654,6 +736,7 @@ I've learned SO MUCH by reviewing others' code. Seeing different approaches has 
 If you haven't requested a review yet - do it! And volunteer to review others. You learn by teaching.
 
 #codereview #100daysofaiengineer
+
 ```
 
 ---
@@ -661,10 +744,12 @@ If you haven't requested a review yet - do it! And volunteer to review others. Y
 ## 📚 Resources for Better Reviews
 
 ### **How to Review Code:**
+
 - [Google's Code Review Guide](https://google.github.io/eng-practices/review/)
 - [Best Practices for Code Review](https://smartbear.com/learn/code-review/best-practices-for-peer-code-review/)
 
 ### **Python/ML Specific:**
+
 - [PyTorch Best Practices](https://pytorch.org/tutorials/beginner/best_practices.html)
 - [Clean Code in Python](https://realpython.com/python-code-quality/)
 

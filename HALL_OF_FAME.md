@@ -11,6 +11,7 @@ The **Hall of Fame** recognizes everyone who **COMPLETED** the 100 Days of AI En
 Not just checked boxes. Not just "participated."
 
 **COMPLETED:**
+
 - ✅ Finished all 100 days (or 100 days within flex day allowance)
 - ✅ Built all 7 major projects
 - ✅ Projects meet quality standards
@@ -106,7 +107,9 @@ Not just checked boxes. Not just "participated."
 3. **Submit for Addition:**
    - Post in Discord #100daysofaiengineer with subject: "HALL OF FAME SUBMISSION"
    - Include:
+
      ```
+
      🏆 HALL OF FAME SUBMISSION
 
      Name: [Your Name]
@@ -122,6 +125,7 @@ Not just checked boxes. Not just "participated."
      Link: [Live demo or repo]
 
      Journey Stats:
+
      - Days completed: [100 or 100 in X days if used flex]
      - Projects built: [7+]
      - Hours spent: [Estimate]
@@ -134,10 +138,12 @@ Not just checked boxes. Not just "participated."
      [One piece of advice for someone starting]
 
      Current Status:
+
      [ ] Actively job hunting
      [ ] Hired! Company: _______
      [ ] Continuing education
      [ ] Building startup
+
      ```
 
 4. **Community Verification:**
@@ -155,6 +161,7 @@ Not just checked boxes. Not just "participated."
 ### **Monthly Graduation Events**
 
 **Last Friday of each month on Discord:**
+
 - Celebrate the month's graduates
 - Each graduate presents their capstone (5 min)
 - Community Q&A
@@ -170,12 +177,15 @@ Not just checked boxes. Not just "participated."
 ## 💬 Graduate Testimonials
 
 ### **[Name] - [Month Year]**
+
 ```
+
 "[Quote about their experience - what was hardest, what they learned, advice for others]"
 
 - Completed in [X] days
 - Now working at [Company] as [Role]
 - Favorite project: [Project Name]
+
 ```
 
 _Testimonials will be added as graduates complete the challenge._
@@ -185,21 +195,25 @@ _Testimonials will be added as graduates complete the challenge._
 ## 📊 Statistics
 
 ### **Completion Rate:**
+
 - Started: [TBD]
 - Completed: [TBD]
 - Completion Rate: [TBD]%
 
 ### **Time to Complete:**
+
 - Fastest: [TBD] days
 - Average: [TBD] days
 - With restarts: [TBD] days
 
 ### **Post-Completion Job Stats:**
+
 - Hired within 30 days: [TBD]%
 - Hired within 90 days: [TBD]%
 - Average time to job offer: [TBD] days
 
 ### **Most Common Project Topics:**
+
 1. [TBD]
 2. [TBD]
 3. [TBD]
@@ -209,6 +223,7 @@ _Testimonials will be added as graduates complete the challenge._
 ## 🎯 Leaderboard (Optional Friendly Competition)
 
 ### **By Completion Speed (Days 1-100 consecutive):**
+
 1. [Name] - 100 days - [End Date]
 2. _Your name here_
 3. _..._
@@ -230,12 +245,14 @@ This isn't a wall of shame. This is a reminder.
 **You can still finish. Your spot is waiting.**
 
 If you started and stopped:
+
 1. Review [FAILURE_RECOVERY.md](FAILURE_RECOVERY.md)
 2. Post restart plan in Discord
 3. Try again
 4. Your name will move from here to the Hall of Fame
 
 **Stopped at Day:**
+
 - Day 3-7: [Most common quit point]
 - Day 15-20: [After first project]
 - Day 40-50: [Mid-challenge slump]
@@ -250,12 +267,14 @@ If you started and stopped:
 ### **Graduates Stay Connected:**
 
 **Discord Role:** `@100DaysGraduate`
+
 - Access to alumni-only channel
 - Exclusive job postings
 - Advanced AI topics discussions
 - Mentor new challengers
 
 **LinkedIn Group:** 100 Days of AI Engineer Alumni
+
 - Networking
 - Job referrals
 - Collaboration opportunities
@@ -269,6 +288,7 @@ If you started and stopped:
 ### **Digital Badges (for LinkedIn, website):**
 
 **Available for graduates:**
+
 - 🏆 100 Days of AI Engineer Graduate
 - 🔥 Perfect Streak Completer
 - 🚀 Hired AI Engineer
@@ -276,6 +296,7 @@ If you started and stopped:
 - 💪 Comeback Completer
 
 **How to get badges:**
+
 - Automated after Hall of Fame addition
 - Posted in Discord for you to download
 - Use on LinkedIn, portfolio, resume
@@ -287,12 +308,14 @@ If you started and stopped:
 ### **Common Themes:**
 
 **Before 100 Days:**
+
 - "I had no portfolio"
 - "I didn't know if I could build real AI systems"
 - "I was intimidated by deep learning"
 - "I had tutorial hell syndrome"
 
 **After 100 Days:**
+
 - "I have 7 portfolio projects"
 - "I can build end-to-end AI systems"
 - "Deep learning makes sense now"
@@ -329,8 +352,11 @@ If you started and stopped:
 2. **Discord Request:** Post submission in Discord, mod will add you
 
 **Template for adding yourself:**
+
 ```markdown
+
 | Your Name | [GitHub](link) | [LinkedIn](link) | [Project Name](link) | ✅ Company Name | Brief note |
+
 ```
 
 ---

@@ -7,16 +7,19 @@
 ## 📊 What You Covered This Week
 
 ### **Days 22-24: Convolutional Neural Networks**
+
 - CNN architecture (conv layers, pooling, fully connected)
 - Regularization techniques (dropout, batch normalization)
 - Optimization algorithms (Adam, RMSprop)
 
 ### **Days 25-26: Transfer Learning**
+
 - Pre-trained models (ResNet, VGG, EfficientNet)
 - Fine-tuning strategies
 - Feature extraction vs full fine-tuning
 
 ### **Days 27-28: RNNs & Data Pipelines**
+
 - Recurrent Neural Networks and LSTM
 - Time series prediction
 - Efficient data loading and augmentation
@@ -37,17 +40,23 @@
 ## 🧪 Knowledge Verification
 
 **CNNs:**
+
 ```
+
 Q: Why do CNNs work better for images than fully connected networks?
 Q: What does a convolutional layer do?
 Q: When would you use MaxPooling vs AveragePooling?
+
 ```
 
 **Transfer Learning:**
+
 ```
+
 Q: Why is transfer learning effective?
 Q: When should you freeze layers vs fine-tune all layers?
 Q: What's the difference between feature extraction and fine-tuning?
+
 ```
 
 **Score: ___/6**
@@ -75,12 +84,14 @@ Q: What's the difference between feature extraction and fine-tuning?
 ## 🎯 Confidence Assessment
 
 ```
+
 CNN Architecture: ___ / 10
 Transfer Learning: ___ / 10
 RNNs & LSTMs: ___ / 10
 Training Deep Models: ___ / 10
 
 Week 4 Overall: ___ / 10
+
 ```
 
 ---
@@ -88,6 +99,7 @@ Week 4 Overall: ___ / 10
 ## 🔧 Common Week 4 Struggles
 
 ### **"CNN not learning / accuracy stuck"**
+
 - Check input shape (channels, height, width)
 - Verify data normalization (mean/std of ImageNet)
 - Start with smaller learning rate
@@ -95,12 +107,14 @@ Week 4 Overall: ___ / 10
 - Check for data leakage
 
 ### **"Transfer learning worse than expected"**
+
 - Ensure correct preprocessing for pre-trained model
 - Unfreeze more layers if dataset is large
 - Reduce learning rate for fine-tuning
 - Train for more epochs
 
 ### **"Out of memory errors"**
+
 - Reduce batch size
 - Use smaller image size
 - Use gradient accumulation
@@ -113,6 +127,7 @@ Week 4 Overall: ___ / 10
 **Coming:** PROJECT 2 (Image Classifier Web App), Computer Vision Advanced Topics
 
 **To prepare:**
+
 - Review Week 4 concepts
 - Ensure model training is solid
 - Think about deployment (Flask/FastAPI basics)
@@ -122,6 +137,7 @@ Week 4 Overall: ___ / 10
 ## 💬 Week 4 Completion Post
 
 ```
+
 ✅ WEEK 4 COMPLETE! 🎨📸
 
 Days 22-28: CNNs + Transfer Learning
@@ -135,6 +151,7 @@ Achievements:
 Computer Vision journey accelerating! 🚀
 
 #100DaysOfAIEngineer #ComputerVision #CNN #TransferLearning
+
 ```
 
 ---
