@@ -1,6 +1,6 @@
-# 🤝 Community Guidelines - CoderCops Discord Server
+# 🤝 Community Guidelines - CODERCOPS Discord Server
 
-**Welcome to the CoderCops community for 100 Days of AI Engineer!**
+**Welcome to the CODERCOPS community for 100 Days of AI Engineer!**
 
 **These guidelines ensure we all have a productive, supportive, and respectful learning environment.**
 
@@ -568,11 +568,11 @@ Any ideas? 🙏
 
 ## 🔗 External Communication
 
-**Representing CoderCops / 100 Days Challenge elsewhere:**
+**Representing CODERCOPS / 100 Days Challenge elsewhere:**
 
 **When posting on LinkedIn, Twitter, etc.:**
 
-✅ Tag @CoderCops
+✅ Tag @CODERCOPS
 ✅ Use #100DaysOfAIEngineer
 ✅ Link back to Discord
 ✅ Share wins and lessons
@@ -615,7 +615,7 @@ Any ideas? 🙏
 
 ---
 
-**Welcome to CoderCops. Let's build AI Engineers.** 🚀
+**Welcome to CODERCOPS. Let's build AI Engineers.** 🚀
 
 **Discord:** https://discord.gg/9eFXYntYa8
-**All Socials:** @codercops
+**All Socials:** @CODERCOPS

@@ -1,144 +1,244 @@
 # 📅 Daily Checklists - 100 Days of AI Engineer
 
-Your daily companion for tracking progress and sharing your journey!
+**Welcome to your daily tracking system!**
+
+Each day has its own directory where you'll:
+- ✅ Track your progress with checklists
+- 💻 Push your code and projects
+- 📝 Document your learning
+- 💬 Share updates in CODERCOPS Discord
 
 ---
 
-## 🎯 How to Use
+## 📂 Directory Structure
 
-1. **Each morning**: Open today's checklist
-2. **During learning**: Check off items as you complete them
-3. **End of day**: Copy the social media post and share your progress
-4. **Before bed**: Review what you learned
-
----
-
-## 📂 Quick Navigation
-
-### **Phase 1: Foundations & Classical ML (Days 1-15)**
-- [Day 01 - NumPy Basics](day01.md) | [Day 02 - Advanced NumPy](day02.md) | [Day 03 - Pandas Intro](day03.md)
-- [Day 04 - Pandas Advanced](day04.md) | [Day 05 - Matplotlib & Seaborn](day05.md) | [Day 06 - Data Visualization](day06.md)
-- [Day 07 - Mathematics for ML](day07.md) | [Day 08 - Linear Regression Theory](day08.md) | [Day 09 - Linear Regression Practice](day09.md)
-- [Day 10 - Logistic Regression](day10.md) | [Day 11 - Decision Trees & Random Forests](day11.md) | [Day 12 - K-Means Clustering](day12.md)
-- [Day 13 - PCA & Dimensionality Reduction](day13.md) | [Day 14 - Model Evaluation](day14.md) | [Day 15 - PROJECT 1: ML Pipeline](day15.md)
-
-### **Phase 2: Deep Learning Fundamentals (Days 16-30)**
-- [Day 16 - Neural Network Basics](day16.md) | [Day 17 - Forward Propagation](day17.md) | [Day 18 - Backpropagation Theory](day18.md)
-- [Day 19 - Backpropagation Implementation](day19.md) | [Day 20 - Introduction to PyTorch](day20.md) | [Day 21 - MNIST with PyTorch](day21.md)
-- [Day 22 - Regularization & Optimization](day22.md) | [Day 23 - CNNs Part 1](day23.md) | [Day 24 - CNNs Part 2](day24.md)
-- [Day 25 - Transfer Learning Basics](day25.md) | [Day 26 - Transfer Learning Practice](day26.md) | [Day 27 - RNNs & LSTM](day27.md)
-- [Day 28 - Time Series with LSTM](day28.md) | [Day 29 - Data Pipelines](day29.md) | [Day 30 - PROJECT 2: Image Classifier](day30.md)
-
-### **Phase 3: Computer Vision (Days 31-45)**
-- [Day 31 - Object Detection Intro](day31.md) | [Day 32 - YOLO Basics](day32.md) | [Day 33 - YOLO Implementation](day33.md)
-- [Day 34 - Real-time Detection](day34.md) | [Day 35 - Semantic Segmentation](day35.md) | [Day 36 - U-Net Architecture](day36.md)
-- [Day 37 - Instance Segmentation & Pose](day37.md) | [Day 38 - Autoencoders](day38.md) | [Day 39 - VAE Implementation](day39.md)
-- [Day 40 - GANs Introduction](day40.md) | [Day 41 - GAN Implementation](day41.md) | [Day 42 - Vision Transformers](day42.md)
-- [Day 43 - CLIP Model](day43.md) | [Day 44 - Model Optimization](day44.md) | [Day 45 - PROJECT 3: Surveillance System](day45.md)
-
-### **Phase 4: Natural Language Processing (Days 46-60)**
-- [Day 46 - Text Preprocessing](day46.md) | [Day 47 - Feature Engineering](day47.md) | [Day 48 - Word2Vec](day48.md)
-- [Day 49 - Word Embeddings](day49.md) | [Day 50 - Text Classification](day50.md) | [Day 51 - Sentiment Analysis](day51.md)
-- [Day 52 - Named Entity Recognition](day52.md) | [Day 53 - Seq2Seq Models](day53.md) | [Day 54 - Attention Basics](day54.md)
-- [Day 55 - Transformers Architecture](day55.md) | [Day 56 - Self-Attention](day56.md) | [Day 57 - BERT Intro](day57.md)
-- [Day 58 - Fine-tuning BERT](day58.md) | [Day 59 - Advanced NLP](day59.md) | [Day 60 - PROJECT 4: NLP Multi-Task App](day60.md)
-
-### **Phase 5: LLMs & Modern NLP (Days 61-75)**
-- [Day 61 - LLM Fundamentals](day61.md) | [Day 62 - GPT Architecture](day62.md) | [Day 63 - Prompt Engineering Basics](day63.md)
-- [Day 64 - Advanced Prompting](day64.md) | [Day 65 - Fine-tuning LLMs](day65.md) | [Day 66 - LoRA & QLoRA](day66.md)
-- [Day 67 - LangChain Basics](day67.md) | [Day 68 - LangChain Advanced](day68.md) | [Day 69 - Embeddings & Vectors](day69.md)
-- [Day 70 - Vector Databases](day70.md) | [Day 71 - RAG Introduction](day71.md) | [Day 72 - RAG Implementation](day72.md)
-- [Day 73 - Advanced RAG](day73.md) | [Day 74 - LLM Evaluation](day74.md) | [Day 75 - PROJECT 5: Production RAG App](day75.md)
-
-### **Phase 6: MLOps & Production (Days 76-85)**
-- [Day 76 - FastAPI for ML](day76.md) | [Day 77 - Model Serving](day77.md) | [Day 78 - Docker for ML](day78.md)
-- [Day 79 - Model Optimization](day79.md) | [Day 80 - MLflow Tracking](day80.md) | [Day 81 - Experiment Management](day81.md)
-- [Day 82 - Model Monitoring](day82.md) | [Day 83 - CI/CD for ML](day83.md) | [Day 84 - Cloud Deployment](day84.md)
-- [Day 85 - PROJECT 6: Production ML System](day85.md)
-
-### **Phase 7: Capstone & Advanced (Days 86-100)**
-- [Day 86 - Multi-Modal AI](day86.md) | [Day 87 - Vision-Language Models](day87.md) | [Day 88 - AI Agents](day88.md)
-- [Day 89 - LangGraph](day89.md) | [Day 90 - Reinforcement Learning](day90.md) | [Day 91 - RL Implementation](day91.md)
-- [Day 92 - Stable Diffusion](day92.md) | [Day 93 - Image Generation](day93.md) | [Day 94 - Capstone Planning](day94.md)
-- [Day 95 - Capstone: Backend](day95.md) | [Day 96 - Capstone: Frontend](day96.md) | [Day 97 - Capstone: Integration](day97.md)
-- [Day 98 - Capstone: Deployment](day98.md) | [Day 99 - Capstone: Documentation](day99.md) | [Day 100 - CELEBRATION! 🎉](day100.md)
-
----
-
-## 📱 Social Media Strategy
-
-Each day includes a **ready-to-post social media template** with:
-- ✅ **Progress update** - What you learned today
-- ✅ **Key takeaway** - Most important concept
-- ✅ **Code snippet** or visual (when applicable)
-- ✅ **Relevant hashtags** - #100DaysOfAIEngineer #MachineLearning #AI
-- ✅ **Call-to-action** - Engage your audience
-
-### Recommended Posting Schedule:
-- **Twitter/X**: Daily updates with code snippets
-- **LinkedIn**: Weekly summaries + daily highlights
-- **Instagram**: Visual progress (screenshots, diagrams)
-- **GitHub**: Code commits daily
-
-### Popular Hashtags to Use:
+Each day is organized as:
 ```
-#100DaysOfAIEngineer
-#100DaysOfCode
-#100DaysOfML
-#MachineLearning
-#DeepLearning
-#ArtificialIntelligence
-#DataScience
-#PyTorch
-#Python
-#AIEngineering
-#LearningInPublic
-#CodeNewbie
-#TechTwitter
+day01/
+├── README.md          (Daily checklist and goals)
+├── code/              (Your Python scripts)
+├── notebooks/         (Jupyter notebooks)
+├── data/              (Data files)
+├── outputs/           (Results, models, plots)
+└── notes.md           (Additional notes)
 ```
 
----
-
-## ✅ Checklist Format
-
-Each daily checklist contains:
-
-1. **📚 Learning Objectives** - What you'll learn
-2. **📖 Reading Materials** - Articles and documentation
-3. **💻 Coding Tasks** - Hands-on implementation
-4. **🎯 Exercises** - Practice problems
-5. **📝 Mini Project** - Apply your knowledge
-6. **📱 Social Media Post** - Ready to share
+**Push your code to the day directory as you complete each day!**
 
 ---
 
-## 🎯 Tips for Success
+## 🗓️ Quick Navigation
 
-1. **Check off items as you go** - Visual progress is motivating
-2. **Don't skip the social post** - Accountability keeps you consistent
-3. **Engage with others** - Comment on others' #100DaysOfAIEngineer posts
-4. **Be honest** - If you didn't finish, say so. Consistency > perfection
-5. **Celebrate small wins** - Every checkbox matters
+### Phase 1: Foundations & Classical ML (Days 1-15)
+
+**Week 1: Data Science Foundations**
+- [Day 01](day01/) - NumPy Basics
+- [Day 02](day02/) - NumPy Advanced
+- [Day 03](day03/) - Pandas Basics
+- [Day 04](day04/) - Pandas Advanced
+- [Day 05](day05/) - Data Visualization (Matplotlib)
+- [Day 06](day06/) - Data Visualization (Seaborn)
+- [Day 07](day07/) - Mathematics for ML
+
+**Week 2: Classical Machine Learning**
+- [Day 08](day08/) - Linear Regression Theory
+- [Day 09](day09/) - Linear Regression Implementation
+- [Day 10](day10/) - Logistic Regression
+- [Day 11](day11/) - Decision Trees & Random Forests
+- [Day 12](day12/) - K-Means Clustering & PCA
+- [Day 13](day13/) - Model Evaluation & Cross-Validation
+- [Day 14-15](day14/) - **PROJECT 1: ML Pipeline** (ROC-AUC > 0.90)
 
 ---
 
-## 📊 Progress Tracking
+### Phase 2: Deep Learning Fundamentals (Days 16-35)
 
-- Mark items with `[x]` when completed
-- Leave as `[ ]` if incomplete
-- Add notes if you want to revisit
+**Week 3: Neural Networks**
+- [Day 16](day16/) - Neural Network Basics
+- [Day 17](day17/) - Forward Propagation
+- [Day 18](day18/) - Backpropagation Theory
+- [Day 19](day19/) - Backpropagation Implementation
+- [Day 20](day20/) - PyTorch Basics
+- [Day 21](day21/) - Building Neural Networks
 
-Example:
-```markdown
-- [x] Completed item
-- [ ] Incomplete item
-- [x] Completed with notes (see notebook)
+**Week 4: CNNs & Transfer Learning**
+- [Day 22](day22/) - CNN Architecture
+- [Day 23](day23/) - CNN Implementation
+- [Day 24](day24/) - Regularization & Optimization
+- [Day 25](day25/) - Transfer Learning
+- [Day 26](day26/) - Pre-trained Models
+- [Day 27](day27/) - RNNs & LSTM
+- [Day 28](day28/) - Time Series Prediction
+
+**Week 5: Image Classification Project**
+- [Day 29-30](day29/) - **PROJECT 2: Image Classifier Web App** (>90% accuracy)
+- [Day 31](day31/) - Object Detection Intro
+- [Day 32](day32/) - YOLO Architecture
+- [Day 33](day33/) - YOLO Implementation
+- [Day 34](day34/) - Real-time Detection
+- [Day 35](day35/) - Advanced Detection
+
+---
+
+### Phase 3: Computer Vision (Days 36-49)
+
+**Week 6: Segmentation & GANs**
+- [Day 36](day36/) - Semantic Segmentation
+- [Day 37](day37/) - U-Net Architecture
+- [Day 38](day38/) - Instance Segmentation
+- [Day 39](day39/) - Autoencoders & VAEs
+- [Day 40](day40/) - GANs Basics
+- [Day 41](day41/) - GAN Implementation
+- [Day 42](day42/) - Vision Transformers
+
+**Week 7: Surveillance Project & CLIP**
+- [Day 43-45](day43/) - **PROJECT 3: Surveillance System** (>15 FPS)
+- [Day 46](day46/) - CLIP Model
+- [Day 47](day47/) - Model Optimization
+- [Day 48](day48/) - Advanced CV Techniques
+- [Day 49](day49/) - Text Preprocessing
+
+---
+
+### Phase 4: Natural Language Processing (Days 50-63)
+
+**Week 8: NLP Fundamentals**
+- [Day 50](day50/) - Text Processing
+- [Day 51](day51/) - Word Embeddings (Word2Vec)
+- [Day 52](day52/) - Text Classification
+- [Day 53](day53/) - Sentiment Analysis
+- [Day 54](day54/) - Named Entity Recognition
+- [Day 55](day55/) - Seq2Seq Models
+- [Day 56](day56/) - Advanced NLP
+
+**Week 9: Transformers & NLP Project**
+- [Day 57](day57/) - Attention Mechanisms
+- [Day 58](day58/) - Transformer Architecture
+- [Day 59](day59/) - BERT Fine-tuning
+- [Day 60](day60/) - **PROJECT 4: NLP Multi-Task API**
+- [Day 61](day61/) - LLM Fundamentals
+- [Day 62](day62/) - GPT Architecture
+- [Day 63](day63/) - Prompt Engineering
+
+---
+
+### Phase 5: LLMs & Modern NLP (Days 64-77)
+
+**Week 10: Advanced Prompting & Fine-tuning**
+- [Day 64](day64/) - Advanced Prompt Engineering
+- [Day 65](day65/) - LLM Fine-tuning (LoRA)
+- [Day 66](day66/) - QLoRA & PEFT
+- [Day 67](day67/) - LangChain Basics
+- [Day 68](day68/) - LangChain Advanced
+- [Day 69](day69/) - Embeddings & Vector DBs
+- [Day 70](day70/) - ChromaDB, Pinecone, FAISS
+
+**Week 11: RAG & MLOps Intro**
+- [Day 71](day71/) - RAG Fundamentals
+- [Day 72](day72/) - RAG Implementation
+- [Day 73](day73/) - Advanced RAG
+- [Day 74](day74/) - LLM Evaluation
+- [Day 75](day75/) - **PROJECT 5: Production RAG App**
+- [Day 76](day76/) - FastAPI for ML
+- [Day 77](day77/) - Model Serving
+
+---
+
+### Phase 6: MLOps & Production (Days 78-85)
+
+**Week 12: MLOps & Project 6**
+- [Day 78](day78/) - Docker for ML
+- [Day 79](day79/) - Model Optimization
+- [Day 80](day80/) - MLflow Tracking
+- [Day 81](day81/) - Model Monitoring
+- [Day 82](day82/) - CI/CD for ML
+- [Day 83](day83/) - Cloud Deployment
+- [Day 84-85](day84/) - **PROJECT 6: MLOps CI/CD System**
+
+---
+
+### Phase 7: Advanced Topics & Capstone (Days 86-100)
+
+**Week 13: Advanced AI**
+- [Day 86](day86/) - Multi-Modal AI
+- [Day 87](day87/) - Vision-Language Models
+- [Day 88](day88/) - AI Agents Fundamentals
+- [Day 89](day89/) - LangGraph for Agents
+- [Day 90](day90/) - Reinforcement Learning
+- [Day 91](day91/) - RL Implementation
+- [Day 92](day92/) - Stable Diffusion & Image Generation
+
+**Week 14-15: CAPSTONE PROJECT**
+- [Day 93](day93/) - Capstone Planning
+- [Day 94-100](day94/) - **PROJECT 7: CAPSTONE - Full-Stack AI Application**
+
+---
+
+## 📱 Daily Workflow
+
+**Every day you must:**
+
+1. ✅ **Read the day's README** - Understand goals and tasks
+2. 💻 **Complete all coding tasks** - Build projects, write code
+3. 📁 **Push code to day directory** - Organize your work
+4. 📝 **Update README** - Add your notes and learnings
+5. 💬 **Post in CODERCOPS Discord** - Share progress (#100daysofaiengineer)
+6. 🔗 **Commit to GitHub** - Daily commits!
+7. 📱 **Social media post** (3x/week) - Use templates in each day's README
+
+---
+
+## 🎯 Why Organize by Day Directories?
+
+**Benefits:**
+- 📦 **All code in one place** - Easy to find Day 23's CNN implementation
+- 📊 **Track your progress** - See your growth over 100 days
+- 💼 **Portfolio ready** - Each day is a mini-project
+- 🔍 **Easy review** - Go back to any day quickly
+- 🤝 **Share specific days** - Link to Day 45's surveillance project
+- 📈 **GitHub contribution graph** - Daily commits show consistency
+
+---
+
+## 💬 Community Integration
+
+**Join CODERCOPS Discord:** https://discord.gg/9eFXYntYa8
+
+**Daily Check-in Template:**
+```
+Day X/100 ✅
+
+🎯 Today: [Topic]
+✅ Completed: [Tasks]
+💻 Code: github.com/yourname/100Days/tree/main/daily_checklists/dayXX
+💡 Learning: [Key insight]
+
+#100DaysOfAIEngineer #CODERCOPS
+@codercops
 ```
 
 ---
 
-**Ready to start?** Click on [Day 01](day01.md) and begin your journey! 🚀
+## 🏆 Track Your Progress
+
+Mark completed days:
+- [ ] Week 1 (Days 1-7)
+- [ ] Week 2 (Days 8-14) + PROJECT 1
+- [ ] Week 3 (Days 15-21)
+- [ ] Week 4 (Days 22-28)
+- [ ] Week 5 (Days 29-35) + PROJECT 2
+- [ ] Week 6 (Days 36-42)
+- [ ] Week 7 (Days 43-49) + PROJECT 3
+- [ ] Week 8 (Days 50-56)
+- [ ] Week 9 (Days 57-63) + PROJECT 4
+- [ ] Week 10 (Days 64-70)
+- [ ] Week 11 (Days 71-77) + PROJECT 5
+- [ ] Week 12 (Days 78-85) + PROJECT 6
+- [ ] Week 13 (Days 86-92)
+- [ ] Week 14-15 (Days 93-100) + CAPSTONE
 
 ---
 
-*Keep building, keep learning!* 💪
+**Let's build AI Engineers together! 💪🔥**
+
+**CODERCOPS Community | #100DaysOfAIEngineer | @codercops**

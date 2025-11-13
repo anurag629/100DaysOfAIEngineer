@@ -2,7 +2,7 @@
 
 ## 🎯 Welcome to the Honor System (With Teeth)
 
-This isn't Big Brother watching you. This is **YOU** holding **YOURSELF** accountable, with the **CoderCops community** as your witnesses.
+This isn't Big Brother watching you. This is **YOU** holding **YOURSELF** accountable, with the **CODERCOPS community** as your witnesses.
 
 ---
 
@@ -29,7 +29,7 @@ Research shows:
 
 ### **Step 1: Join Discord & Register**
 
-1. Join CoderCops Discord: https://discord.gg/9eFXYntYa8
+1. Join CODERCOPS Discord: https://discord.gg/9eFXYntYa8
 2. Post in **#introductions** (see [COMMUNITY.md](COMMUNITY.md) for template)
 3. Note your start date and commit publicly
 
@@ -199,13 +199,13 @@ In `weekly_reviews/weekXX.md` (see that folder):
 
 **30-Day Streak** 🔥🔥
 
-- Featured in CoderCops Twitter
+- Featured in CODERCOPS Twitter
 - "Month Master" role in Discord
 - Special color in Discord
 
 **50-Day Streak** 🔥🔥🔥
 
-- Spotlight post across all CoderCops social media
+- Spotlight post across all CODERCOPS social media
 - "Unstoppable" role in Discord
 - Interview feature (if you want)
 
@@ -220,7 +220,7 @@ In `weekly_reviews/weekXX.md` (see that folder):
 - **HALL OF FAME** listing (permanent)
 - Digital certificate
 - "100-Day Graduate" role
-- Featured across all CoderCops platforms
+- Featured across all CODERCOPS platforms
 - LinkedIn recommendation template
 - Priority access to job postings
 
@@ -372,9 +372,9 @@ Located in [HALL_OF_FAME.md](HALL_OF_FAME.md)
 **You get:**
 
 - Permanent listing with name, GitHub, and project links
-- Digital certificate (CoderCops official)
+- Digital certificate (CODERCOPS official)
 - "Graduate" role in Discord (permanent)
-- Featured across all CoderCops social media
+- Featured across all CODERCOPS social media
 - LinkedIn recommendation template
 - First access to job postings
 - Invited to mentor future cohorts
@@ -500,7 +500,7 @@ What's next: Job hunting starts tomorrow.
 
 To future learners: If I can do it, you can too.
 
-Thank you @CoderCops community! 🙏🔥
+Thank you @CODERCOPS community! 🙏🔥
 
 #100DaysOfAIEngineer #AIEngineering
 
@@ -540,7 +540,7 @@ Thank you @CoderCops community! 🙏🔥
 3. [ ] Commit publicly in #100daysofaiengineer
 4. [ ] Fork this repo and create `my_progress.md`
 5. [ ] Find an accountability buddy
-6. [ ] Follow @codercops on all platforms
+6. [ ] Follow @CODERCOPS on all platforms
 7. [ ] Set daily reminder to check Discord
 8. [ ] Schedule your daily learning time (recurring calendar event)
 9. [ ] Tell 3 people IRL that you're doing this
@@ -551,7 +551,7 @@ Thank you @CoderCops community! 🙏🔥
 
 **Accountability isn't about pressure. It's about support.**
 
-**The CoderCops community wants you to succeed.**
+**The CODERCOPS community wants you to succeed.**
 
 **We're all in this together.**
 

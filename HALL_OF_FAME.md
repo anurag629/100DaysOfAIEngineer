@@ -148,7 +148,7 @@ Not just checked boxes. Not just "participated."
 
 4. **Community Verification:**
    - 2+ community members verify your consistency
-   - CoderCops moderator approves
+   - CODERCOPS moderator approves
 
 5. **Get Added:**
    - Submit PR to this file OR
