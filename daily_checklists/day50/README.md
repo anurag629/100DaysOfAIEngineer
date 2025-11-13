@@ -65,22 +65,26 @@ Before starting, ensure you understand:
 
 ### 📝 Must-Read Articles
 
-- [Official Documentation](https://docs.python.org/) - Core concepts
-- [Tutorial on Text Classification](https://realpython.com/) - Comprehensive guide
+- [Hugging Face Transformers](https://huggingface.co/docs/transformers/) - Official documentation
+- [Fine-tuning Guide](https://huggingface.co/docs/transformers/en/training) - Training models
+- [BERT Explained](https://www.kdnuggets.com/how-to-fine-tune-bert-sentiment-analysis-hugging-face-transformers) - KDnuggets tutorial
 
 ### 🎥 Video Tutorials
 
-- [Text Classification Tutorial](https://www.youtube.com/) - Video explanation
+- [Transformers Explained](https://www.youtube.com/watch?v=TQQlZhbC5ps) - Attention mechanism
+- [Hugging Face Course](https://www.youtube.com/watch?v=00GKzGyWFEs) - Complete tutorial
 
 ### 💪 Practice Resources
 
-- [Practice Problems](https://www.hackerrank.com/) - Hands-on exercises
-- [Kaggle Tutorials](https://www.kaggle.com/learn) - Interactive learning
+- [Hugging Face Models](https://huggingface.co/models) - Pre-trained models
+- [NLP Datasets](https://huggingface.co/datasets) - Practice data
+- [Papers With Code NLP](https://paperswithcode.com/area/natural-language-processing) - SOTA
 
 ### 🎮 Interactive Platforms
 
-- [Google Colab](https://colab.research.google.com) - Free GPU notebooks
-- [Jupyter Notebooks](https://jupyter.org/) - Interactive coding
+- [Hugging Face Spaces](https://huggingface.co/spaces) - Model demos
+- [Google Colab](https://colab.research.google.com) - GPU for NLP
+- [Gradio](https://gradio.app/) - Quick demos
 
 ---
 

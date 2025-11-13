@@ -65,22 +65,26 @@ Before starting, ensure you understand:
 
 ### 📝 Must-Read Articles
 
-- [Official Documentation](https://docs.python.org/) - Core concepts
-- [Tutorial on Capstone - Backend Development](https://realpython.com/) - Comprehensive guide
+- [Stable Diffusion Guide](https://stability.ai/stable-diffusion) - Official docs
+- [Reinforcement Learning](https://spinningup.openai.com/en/latest/) - OpenAI guide
+- [Multi-Modal AI](https://huggingface.co/blog/vision_language_pretraining) - Hugging Face
 
 ### 🎥 Video Tutorials
 
-- [Capstone - Backend Development Tutorial](https://www.youtube.com/) - Video explanation
+- [Stable Diffusion Tutorial](https://www.youtube.com/watch?v=1CIpzeNxIhU) - Complete guide
+- [RL Course](https://www.youtube.com/watch?v=2pWv7GOvuf0) - David Silver
 
 ### 💪 Practice Resources
 
-- [Practice Problems](https://www.hackerrank.com/) - Hands-on exercises
-- [Kaggle Tutorials](https://www.kaggle.com/learn) - Interactive learning
+- [Stable Diffusion Examples](https://github.com/CompVis/stable-diffusion) - GitHub
+- [OpenAI Gym](https://gym.openai.com/) - RL environments
+- [Hugging Face Diffusers](https://huggingface.co/docs/diffusers/index) - Image generation
 
 ### 🎮 Interactive Platforms
 
-- [Google Colab](https://colab.research.google.com) - Free GPU notebooks
-- [Jupyter Notebooks](https://jupyter.org/) - Interactive coding
+- [Google Colab](https://colab.research.google.com) - GPU for generation
+- [Replicate](https://replicate.com/) - Run models
+- [Gradio](https://gradio.app/) - Create demos
 
 ---
 

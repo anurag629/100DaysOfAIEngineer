@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """
 Generate enhanced READMEs for all 100 days with topic-specific content
+Uses real, verified resource links from web searches (2024-2025)
 """
 import os
 import sys
@@ -8,6 +9,7 @@ import sys
 # Add parent directory to path
 sys.path.insert(0, os.path.dirname(__file__))
 from enhance_daily_checklists import generate_enhanced_readme
+from resource_links import get_resources_for_day
 
 BASE_DIR = "/home/user/100DaysOfAIEngineer/daily_checklists"
 
@@ -282,28 +284,10 @@ def get_learning_objectives(day_num, topic):
     return objectives
 
 def get_resources(day_num, topic):
-    """Get resources based on topic"""
+    """Get real, topic-specific resources based on day number"""
 
-    # Generic resources that work for most days
-    resources = {
-        "articles": [
-            f"[Official Documentation](https://docs.python.org/) - Core concepts",
-            f"[Tutorial on {topic}](https://realpython.com/) - Comprehensive guide"
-        ],
-        "videos": [
-            f"[{topic} Tutorial](https://www.youtube.com/) - Video explanation"
-        ],
-        "practice": [
-            "[Practice Problems](https://www.hackerrank.com/) - Hands-on exercises",
-            "[Kaggle Tutorials](https://www.kaggle.com/learn) - Interactive learning"
-        ],
-        "interactive": [
-            "[Google Colab](https://colab.research.google.com) - Free GPU notebooks",
-            "[Jupyter Notebooks](https://jupyter.org/) - Interactive coding"
-        ]
-    }
-
-    return resources
+    # Get real resources from our curated collection
+    return get_resources_for_day(day_num)
 
 def get_key_concepts(day_num, topic):
     """Generate key concepts based on topic"""

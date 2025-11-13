@@ -65,22 +65,27 @@ Before starting, ensure you understand:
 
 ### 📝 Must-Read Articles
 
-- [Official Documentation](https://docs.python.org/) - Core concepts
-- [Tutorial on NumPy Basics - Array Operations & Vectorization](https://realpython.com/) - Comprehensive guide
+- [NumPy Quickstart Tutorial](https://numpy.org/doc/stable/user/quickstart.html) - Official docs
+- [NumPy for Absolute Beginners](https://numpy.org/doc/stable/user/absolute_beginners.html) - Getting started
+- [NumPy Array Programming](https://realpython.com/numpy-array-programming/) - Real Python guide
 
 ### 🎥 Video Tutorials
 
-- [NumPy Basics - Array Operations & Vectorization Tutorial](https://www.youtube.com/) - Video explanation
+- [NumPy Tutorial by freeCodeCamp](https://www.youtube.com/watch?v=QUT1VHiLmmI) - 90 min comprehensive
+- [NumPy Crash Course](https://www.youtube.com/watch?v=8Y0qQEh7dJg) - 30 mins quickstart
 
 ### 💪 Practice Resources
 
-- [Practice Problems](https://www.hackerrank.com/) - Hands-on exercises
-- [Kaggle Tutorials](https://www.kaggle.com/learn) - Interactive learning
+- [100 NumPy Exercises](https://github.com/rougier/numpy-100) - Progressive difficulty
+- [W3Schools NumPy](https://www.w3schools.com/python/numpy/) - Interactive tutorials
+- [HackerRank Python](https://www.hackerrank.com/domains/python) - NumPy challenges
+- [DataWars Projects](https://www.datawars.io) - Real-world practice
 
 ### 🎮 Interactive Platforms
 
 - [Google Colab](https://colab.research.google.com) - Free GPU notebooks
-- [Jupyter Notebooks](https://jupyter.org/) - Interactive coding
+- [Kaggle Learn Python](https://www.kaggle.com/learn/python) - Interactive course
+- [Exercism Python Track](https://exercism.org/tracks/python) - Mentored exercises
 
 ---
 

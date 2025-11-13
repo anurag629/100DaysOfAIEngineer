@@ -65,22 +65,25 @@ Before starting, ensure you understand:
 
 ### 📝 Must-Read Articles
 
-- [Official Documentation](https://docs.python.org/) - Core concepts
-- [Tutorial on Interactive Visualizations & EDA](https://realpython.com/) - Comprehensive guide
+- [Matplotlib Tutorials](https://matplotlib.org/stable/tutorials/index.html) - Official docs
+- [Seaborn Tutorial](https://seaborn.pydata.org/tutorial.html) - Statistical visualization
+- [Plotly Python](https://plotly.com/python/) - Interactive plots
 
 ### 🎥 Video Tutorials
 
-- [Interactive Visualizations & EDA Tutorial](https://www.youtube.com/) - Video explanation
+- [Matplotlib Tutorial](https://www.youtube.com/watch?v=UO98lJQ3QGI) - Complete guide
+- [Seaborn Tutorial](https://www.youtube.com/watch?v=6GUZXDef2U0) - Data visualization
 
 ### 💪 Practice Resources
 
-- [Practice Problems](https://www.hackerrank.com/) - Hands-on exercises
-- [Kaggle Tutorials](https://www.kaggle.com/learn) - Interactive learning
+- [Matplotlib Gallery](https://matplotlib.org/stable/gallery/index.html) - Example plots
+- [Seaborn Examples](https://seaborn.pydata.org/examples/index.html) - Visual gallery
+- [DataWars Visualization](https://www.datawars.io) - Practice projects
 
 ### 🎮 Interactive Platforms
 
-- [Google Colab](https://colab.research.google.com) - Free GPU notebooks
-- [Jupyter Notebooks](https://jupyter.org/) - Interactive coding
+- [Google Colab](https://colab.research.google.com) - Plot in browser
+- [Plotly Chart Studio](https://chart-studio.plotly.com/) - Interactive charts
 
 ---
 

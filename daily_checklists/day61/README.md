@@ -65,22 +65,26 @@ Before starting, ensure you understand:
 
 ### 📝 Must-Read Articles
 
-- [Official Documentation](https://docs.python.org/) - Core concepts
-- [Tutorial on Large Language Models - Fundamentals](https://realpython.com/) - Comprehensive guide
+- [LangChain RAG Tutorial](https://python.langchain.com/docs/tutorials/rag/) - Official guide
+- [RAG Complete Guide](https://www.singlestore.com/blog/a-guide-to-retrieval-augmented-generation-rag/) - SingleStore
+- [Master RAG with LangChain](https://blog.futuresmart.ai/master-rag-with-langchain-a-practical-guide) - Step-by-step
 
 ### 🎥 Video Tutorials
 
-- [Large Language Models - Fundamentals Tutorial](https://www.youtube.com/) - Video explanation
+- [LangChain Tutorial](https://www.youtube.com/watch?v=nAmC7SoVLd8) - Complete guide
+- [RAG Explained](https://www.youtube.com/watch?v=T-D1OfcDW1M) - Sam Witteveen
 
 ### 💪 Practice Resources
 
-- [Practice Problems](https://www.hackerrank.com/) - Hands-on exercises
-- [Kaggle Tutorials](https://www.kaggle.com/learn) - Interactive learning
+- [LangChain Examples](https://github.com/langchain-ai/langchain/tree/master/cookbook) - Code samples
+- [RAG Projects](https://github.com/topics/retrieval-augmented-generation) - GitHub
+- [Pinecone Examples](https://docs.pinecone.io/examples) - Vector DB
 
 ### 🎮 Interactive Platforms
 
-- [Google Colab](https://colab.research.google.com) - Free GPU notebooks
-- [Jupyter Notebooks](https://jupyter.org/) - Interactive coding
+- [LangChain Hub](https://smith.langchain.com/hub) - Prompt templates
+- [OpenAI Playground](https://platform.openai.com/playground) - Test prompts
+- [Google Colab](https://colab.research.google.com) - RAG development
 
 ---
 

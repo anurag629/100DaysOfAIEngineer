@@ -65,22 +65,27 @@ Before starting, ensure you understand:
 
 ### 📝 Must-Read Articles
 
-- [Official Documentation](https://docs.python.org/) - Core concepts
-- [Tutorial on Tree-Based Models](https://realpython.com/) - Comprehensive guide
+- [scikit-learn Documentation](https://scikit-learn.org/stable/user_guide.html) - Complete guide
+- [Machine Learning Mastery](https://machinelearningmastery.com/start-here/) - Tutorials
+- [Google ML Crash Course](https://developers.google.com/machine-learning/crash-course) - Free course
 
 ### 🎥 Video Tutorials
 
-- [Tree-Based Models Tutorial](https://www.youtube.com/) - Video explanation
+- [StatQuest Machine Learning](https://www.youtube.com/c/joshstarmer) - Concepts explained
+- [Andrew Ng ML Course](https://www.coursera.org/learn/machine-learning) - Foundational
 
 ### 💪 Practice Resources
 
-- [Practice Problems](https://www.hackerrank.com/) - Hands-on exercises
-- [Kaggle Tutorials](https://www.kaggle.com/learn) - Interactive learning
+- [Kaggle Competitions](https://www.kaggle.com/competitions) - Real datasets
+- [UCI ML Repository](https://archive.ics.uci.edu/ml/index.php) - Practice datasets
+- [DataWars ML Projects](https://www.datawars.io) - Hands-on practice
+- [HackerRank ML](https://www.hackerrank.com/domains/ai) - Challenges
 
 ### 🎮 Interactive Platforms
 
-- [Google Colab](https://colab.research.google.com) - Free GPU notebooks
-- [Jupyter Notebooks](https://jupyter.org/) - Interactive coding
+- [Kaggle Learn](https://www.kaggle.com/learn) - Interactive ML courses
+- [Google Colab](https://colab.research.google.com) - Free GPU
+- [DataCamp ML Courses](https://www.datacamp.com/courses/machine-learning) - Structured learning
 
 ---
 

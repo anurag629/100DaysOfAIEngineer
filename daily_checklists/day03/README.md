@@ -65,22 +65,27 @@ Before starting, ensure you understand:
 
 ### 📝 Must-Read Articles
 
-- [Official Documentation](https://docs.python.org/) - Core concepts
-- [Tutorial on Pandas Fundamentals](https://realpython.com/) - Comprehensive guide
+- [Pandas Documentation](https://pandas.pydata.org/docs/user_guide/index.html) - Official guide
+- [10 Minutes to Pandas](https://pandas.pydata.org/docs/user_guide/10min.html) - Quick intro
+- [Pandas Tutorial](https://www.w3schools.com/python/pandas/) - W3Schools guide
 
 ### 🎥 Video Tutorials
 
-- [Pandas Fundamentals Tutorial](https://www.youtube.com/) - Video explanation
+- [Pandas Tutorial by Corey Schafer](https://www.youtube.com/watch?v=ZyhVh-qRZPA) - Complete series
+- [Data Analysis with Pandas](https://www.youtube.com/watch?v=vmEHCJofslg) - FreeCodeCamp
 
 ### 💪 Practice Resources
 
-- [Practice Problems](https://www.hackerrank.com/) - Hands-on exercises
-- [Kaggle Tutorials](https://www.kaggle.com/learn) - Interactive learning
+- [12 Free Pandas Projects](https://www.datawars.io/articles/12-free-data-science-projects-to-practice-python-and-pandas) - DataWars curated
+- [Pandas Skill Track](https://www.datawars.io/data-science-skill-track/intro-to-pandas-for-data-analysis) - Interactive practice
+- [101 Pandas Exercises](https://www.machinelearningplus.com/python/101-pandas-exercises-python/) - Comprehensive
+- [Kaggle Pandas Course](https://www.kaggle.com/learn/pandas) - Interactive learning
 
 ### 🎮 Interactive Platforms
 
-- [Google Colab](https://colab.research.google.com) - Free GPU notebooks
-- [Jupyter Notebooks](https://jupyter.org/) - Interactive coding
+- [DataWars Platform](https://www.datawars.io) - 1000+ projects
+- [Google Colab](https://colab.research.google.com) - Practice environment
+- [DataCamp Pandas](https://www.datacamp.com/courses/pandas-foundations) - Structured course
 
 ---
 

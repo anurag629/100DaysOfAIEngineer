@@ -65,22 +65,27 @@ Before starting, ensure you understand:
 
 ### 📝 Must-Read Articles
 
-- [Official Documentation](https://docs.python.org/) - Core concepts
-- [Tutorial on Model Monitoring & Drift Detection](https://realpython.com/) - Comprehensive guide
+- [MLflow Documentation](https://mlflow.org/docs/latest/index.html) - Official guide
+- [MLOps for Beginners](https://towardsdatascience.com/machine-learning-operations-mlops-for-beginners-a5686bfe02b2/) - Complete guide
+- [FastAPI ML Tutorial](https://blog.jetbrains.com/pycharm/2024/09/how-to-use-fastapi-for-machine-learning/) - PyCharm blog
+- [Docker MLOps Workflow](https://www.runpod.io/articles/guides/mlops-workflow-docker-ai-deployment) - RunPod
 
 ### 🎥 Video Tutorials
 
-- [Model Monitoring & Drift Detection Tutorial](https://www.youtube.com/) - Video explanation
+- [MLOps Course](https://www.youtube.com/watch?v=NgWujOrCZFo) - FreeCodeCamp
+- [MLflow Tutorial](https://www.youtube.com/watch?v=859OxXrt_TI) - Complete guide
 
 ### 💪 Practice Resources
 
-- [Practice Problems](https://www.hackerrank.com/) - Hands-on exercises
-- [Kaggle Tutorials](https://www.kaggle.com/learn) - Interactive learning
+- [7 MLOps Projects](https://www.kdnuggets.com/7-mlops-projects-beginners) - KDnuggets
+- [MLOps GitHub](https://github.com/topics/mlops) - Project examples
+- [DVC Tutorials](https://dvc.org/doc/start) - Data versioning
 
 ### 🎮 Interactive Platforms
 
-- [Google Colab](https://colab.research.google.com) - Free GPU notebooks
-- [Jupyter Notebooks](https://jupyter.org/) - Interactive coding
+- [MLflow Tracking](https://mlflow.org/docs/latest/quickstart.html) - Hands-on
+- [Docker Playground](https://labs.play-with-docker.com/) - Practice Docker
+- [Google Cloud MLOps](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning) - Cloud platform
 
 ---
 

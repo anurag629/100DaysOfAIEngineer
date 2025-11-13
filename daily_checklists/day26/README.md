@@ -65,22 +65,27 @@ Before starting, ensure you understand:
 
 ### 📝 Must-Read Articles
 
-- [Official Documentation](https://docs.python.org/) - Core concepts
-- [Tutorial on Time Series with LSTM](https://realpython.com/) - Comprehensive guide
+- [PyTorch Tutorials](https://pytorch.org/tutorials/) - Official documentation
+- [PyTorch Basics](https://pytorch.org/tutorials/beginner/basics/intro.html) - Getting started guide
+- [Learn PyTorch](https://www.learnpytorch.io/) - Complete course
 
 ### 🎥 Video Tutorials
 
-- [Time Series with LSTM Tutorial](https://www.youtube.com/) - Video explanation
+- [PyTorch 60 Minute Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html) - Quick start
+- [PyTorch for Deep Learning](https://www.youtube.com/watch?v=c36lUUr864M) - FreeCodeCamp
+- [Zero to Mastery PyTorch](https://www.youtube.com/watch?v=Z_ikDlimN6A) - Full course
 
 ### 💪 Practice Resources
 
-- [Practice Problems](https://www.hackerrank.com/) - Hands-on exercises
-- [Kaggle Tutorials](https://www.kaggle.com/learn) - Interactive learning
+- [PyTorch Examples](https://github.com/pytorch/examples) - Official examples
+- [PyTorch Tutorials GitHub](https://github.com/pytorch/tutorials) - Code samples
+- [Kaggle PyTorch](https://www.kaggle.com/learn/intro-to-deep-learning) - Interactive
 
 ### 🎮 Interactive Platforms
 
-- [Google Colab](https://colab.research.google.com) - Free GPU notebooks
-- [Jupyter Notebooks](https://jupyter.org/) - Interactive coding
+- [Google Colab](https://colab.research.google.com) - Free GPU for PyTorch
+- [Kaggle Notebooks](https://www.kaggle.com/code) - GPU notebooks
+- [DataCamp PyTorch](https://www.datacamp.com/courses/deep-learning-in-python) - Interactive
 
 ---
 
