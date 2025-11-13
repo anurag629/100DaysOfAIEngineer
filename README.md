@@ -2,6 +2,161 @@
 
 > A comprehensive, project-driven roadmap to becoming an AI Engineer in 100 days
 
+---
+
+## ⚠️ STOP! READ THIS FIRST OR GET THE FUCK OUT ⚠️
+
+**Listen up, aspiring AI Engineer!**
+
+I didn't spend countless hours researching, curating 150+ blog articles, creating 100 detailed daily checklists, and designing 7 production-grade projects for people who are "just browsing" or looking for "easy learning."
+
+### 🔥 THIS IS NOT A CASUAL COURSE. THIS IS A COMMITMENT. 🔥
+
+**Before you scroll down, answer these questions HONESTLY:**
+
+❓ **Can you dedicate 2-4 hours EVERY SINGLE DAY for 100 days?**
+❓ **Can you code, build projects, and debug errors without giving up?**
+❓ **Are you willing to share your learning publicly and hold yourself accountable?**
+❓ **Can you handle failure, frustration, and the steep learning curve?**
+
+### ⚡ IF YOU ANSWERED "NO" OR "MAYBE" TO ANY OF THESE - CLOSE THIS TAB NOW. ⚡
+
+**I'm serious. Leave. Go watch YouTube tutorials. Do easy Udemy courses. This isn't for you.**
+
+---
+
+### 💀 THE BRUTAL TRUTH ABOUT THIS CHALLENGE:
+
+- ❌ **No hand-holding** - You'll get stuck. You'll debug for hours. That's the point.
+- ❌ **No participation trophies** - Checking boxes without understanding = FAILURE.
+- ❌ **No excuses** - "I was busy" = You weren't serious from the start.
+- ✅ **100% commitment** - Miss a day? START OVER. Yes, I'm that hardcore.
+- ✅ **Public accountability** - Share EVERY DAY on social media or you're not doing this right.
+- ✅ **Real projects** - Build production-grade systems, not toy examples.
+
+---
+
+### 🎯 THE CHALLENGE - ACCEPT OR GTFO:
+
+#### **I WILL:**
+✅ Code for 2-4 hours EVERY DAY for 100 consecutive days (NO EXCEPTIONS)
+✅ Complete ALL coding tasks, exercises, and projects for each day
+✅ Share my progress publicly EVERY SINGLE DAY using #100DaysOfAIEngineer
+✅ Push my code to GitHub daily (no matter how ugly it is)
+✅ Help others in the community when I can
+✅ NOT give up when shit gets hard (because it WILL get hard)
+✅ Build all 7 major projects from scratch
+✅ Document my learning journey publicly
+
+#### **I WILL NOT:**
+❌ Skip a single day
+❌ Copy-paste code without understanding
+❌ Make excuses
+❌ Quit when it gets difficult
+❌ Stay silent - I will engage with the community
+❌ Half-ass any project or exercise
+
+---
+
+### 🔥 STILL HERE? GOOD. YOU MIGHT ACTUALLY MAKE IT.
+
+**Here's what separates winners from wannabes:**
+
+**WINNERS** build in public, embrace the grind, show up every day, help others, and become job-ready AI Engineers.
+
+**WANNABES** read day 1, get excited, quit by day 7, blame "lack of time," and never build anything real.
+
+### 📢 YOUR FIRST ACTION (DO THIS RIGHT NOW):
+
+Post this on Twitter/LinkedIn/Instagram:
+
+```
+I'm committing to #100DaysOfAIEngineer starting TODAY.
+
+100 days. No excuses. No skipping.
+- 2-4 hours daily
+- Public learning
+- Real projects
+- Building in public
+
+Repo: [Your fork link]
+
+Day 1 starts NOW. Who's with me? 🔥
+
+#100DaysOfCode #MachineLearning #AI #LearningInPublic
+```
+
+**Tag 3 friends who you think have the GUTS to do this with you.**
+
+---
+
+### 🏆 WHAT YOU'LL BECOME IF YOU ACTUALLY FINISH:
+
+After 100 days of this brutal, unforgiving, kick-your-ass curriculum, you'll:
+
+✅ Build ML models from scratch in NumPy (not just using libraries like a script kiddie)
+✅ Deploy production LLM applications with RAG, vector databases, and proper MLOps
+✅ Implement neural networks, CNNs, transformers from first principles
+✅ Have a portfolio with 7 production-grade projects that'll make recruiters drool
+✅ Understand AI/ML at a level that 90% of "AI Engineers" don't
+✅ Be able to pass technical interviews at top tech companies
+✅ Actually DESERVE to call yourself an AI Engineer
+
+### 💰 THE PAYOFF:
+
+- **Entry-level AI Engineer salary:** $80k-120k
+- **Skills that companies are desperately hiring for RIGHT NOW**
+- **Portfolio that stands out from the "I completed a Coursera course" crowd**
+- **Confidence to build ANY AI system from scratch**
+
+---
+
+### ⚔️ THE FINAL WARNING:
+
+This curriculum was designed by someone who gives a shit about your SUCCESS, not your COMFORT.
+
+**If you're looking for easy:** This isn't it. Leave now.
+**If you're looking for quick:** This isn't it. Leave now.
+**If you're not willing to suffer a little:** This DEFINITELY isn't it. LEAVE NOW.
+
+**BUT...**
+
+**If you're ready to transform yourself.**
+**If you're hungry to actually BECOME an AI Engineer, not just "learn about AI."**
+**If you're willing to embrace the suck for 100 days to change your life.**
+
+### THEN SCROLL DOWN AND START DAY 1.
+
+---
+
+### 📊 TRACK RECORD (Will Be Updated):
+
+**People who started:** [TBD]
+**People who quit in week 1:** [TBD]
+**People who made it to day 30:** [TBD]
+**People who finished all 100 days:** [TBD]
+**People who got hired as AI Engineers:** [TBD]
+
+**Will you be in the "finished" column or the "quit" column?**
+
+---
+
+### 🎯 READY? PROVE IT.
+
+Click here to start: **[Day 1 Checklist](daily_checklists/day01.md)**
+
+Fork this repo. Share your commitment. Begin.
+
+**The world doesn't need more people who "tried" AI. It needs people who BECAME AI Engineers.**
+
+**NOW GET THE FUCK TO WORK.** 💪🔥
+
+---
+
+*P.S. - If this notice offended you, good. You probably weren't ready anyway. If this fired you up, PERFECT. You're exactly who this is for. See you at Day 100.* 🎯
+
+---
+
 ## 📋 Overview
 
 This is a structured 100-day program designed to transform you from a Python developer into a skilled AI Engineer. The curriculum is **project-focused**, **hands-on**, and covers the **modern AI stack** used in production environments.
