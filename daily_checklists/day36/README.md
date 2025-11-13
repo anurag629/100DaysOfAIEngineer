@@ -65,22 +65,26 @@ Before starting, ensure you understand:
 
 ### 📝 Must-Read Articles
 
-- [Official Documentation](https://docs.python.org/) - Core concepts
-- [Tutorial on U-Net Architecture & Implementation](https://realpython.com/) - Comprehensive guide
+- [YOLO Object Detection](https://www.datacamp.com/blog/yolo-object-detection-explained) - Complete guide
+- [Roboflow YOLO Tutorial](https://blog.roboflow.com/yolo-object-detection/) - Practical implementation
+- [Computer Vision Guide](https://www.viam.com/post/computer-vision-object-detection-guide) - 2025 expert guide
 
 ### 🎥 Video Tutorials
 
-- [U-Net Architecture & Implementation Tutorial](https://www.youtube.com/) - Video explanation
+- [YOLO Object Detection](https://www.youtube.com/watch?v=ag3DLKsl2vk) - Implementation tutorial
+- [Computer Vision Course](https://www.youtube.com/watch?v=01sAkU_NvOY) - Stanford CS231n
 
 ### 💪 Practice Resources
 
-- [Practice Problems](https://www.hackerrank.com/) - Hands-on exercises
-- [Kaggle Tutorials](https://www.kaggle.com/learn) - Interactive learning
+- [Roboflow Universe](https://universe.roboflow.com/) - CV datasets
+- [Papers With Code CV](https://paperswithcode.com/area/computer-vision) - SOTA models
+- [Kaggle CV Competitions](https://www.kaggle.com/competitions?search=computer+vision) - Practice
 
 ### 🎮 Interactive Platforms
 
-- [Google Colab](https://colab.research.google.com) - Free GPU notebooks
-- [Jupyter Notebooks](https://jupyter.org/) - Interactive coding
+- [Google Colab](https://colab.research.google.com) - GPU for CV
+- [Roboflow](https://roboflow.com/) - Annotation & training
+- [Gradio](https://gradio.app/) - Demo interfaces
 
 ---
 
