@@ -149,6 +149,41 @@ Who else is on a learning journey? Let's connect! 🤝
 
 ---
 
+---
+
+## 💬 Discord Check-In (REQUIRED)
+
+**Post in CoderCops Discord #100daysofaiengineer channel:**
+
+https://discord.gg/9eFXYntYa8
+
+**Your daily post (copy & customize):**
+
+```
+Day 84/100 ✅
+
+🎯 Today's Focus: Cloud Deployment - AWS/GCP
+
+✅ What I learned:
+- [Key learning 1]
+- [Key learning 2]
+
+💻 Project: Cloud deployment
+
+🔗 Code: [Your GitHub link]
+
+#100DaysOfAIEngineer #CoderCops
+```
+
+**Why Discord matters:**
+- 📊 Track your streak publicly
+- 🤝 Get support when stuck
+- 💪 Stay accountable to community
+- 🎯 Connect with other learners
+
+**⚠️ No Discord post = Day doesn't count!**
+
+
 ## ✅ End of Day Checklist
 
 - [ ] All coding tasks completed

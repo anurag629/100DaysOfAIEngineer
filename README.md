@@ -157,6 +157,68 @@ Fork this repo. Share your commitment. Begin.
 
 ---
 
+## 🌐 JOIN THE CODERCOPS COMMUNITY - YOUR SUCCESS STARTS HERE
+
+**You CAN'T do this alone. And you don't have to.**
+
+### **🎯 CoderCops Discord Server - REQUIRED for Success**
+
+**Join NOW:** **https://discord.gg/9eFXYntYa8**
+
+**Why Discord is MANDATORY:**
+- ✅ **Daily accountability** - Post your progress EVERY DAY
+- ✅ **Get unstuck FAST** - Community answers in minutes, not hours
+- ✅ **Code reviews** - Get feedback from other learners and mentors
+- ✅ **Stay motivated** - See others crushing it, get inspired
+- ✅ **Network** - Connect with future AI Engineers and potential employers
+- ✅ **Peer pressure (the good kind)** - Your streak is PUBLIC
+
+**📢 Key Channels:**
+- **#100daysofaiengineer** - Daily check-ins and quick updates
+- **100daysofaiengineer forum** - Project showcases, code reviews, detailed discussions
+
+**📅 What You'll Post Daily:**
+```
+Day X/100 ✅
+Topic: [What you learned]
+Code: [GitHub link]
+Progress: [What you built]
+#100DaysOfAIEngineer
+```
+
+**⚠️ If you're not in Discord, you're NOT doing the challenge properly.**
+
+---
+
+### **📱 Follow CoderCops - Stay Connected & Inspired**
+
+**All platforms:** **@codercops**
+
+- 🐦 **Twitter/X:** https://twitter.com/codercops - Daily AI tips, community wins
+- 💼 **LinkedIn:** https://linkedin.com/company/codercops - Professional updates, job posts
+- 📸 **Instagram:** https://instagram.com/codercops - Visual progress, motivation
+- 🎥 **YouTube:** https://youtube.com/@codercops - Tutorials, project walkthroughs
+- 💻 **GitHub:** https://github.com/codercops - Open source projects, resources
+
+**Follow all platforms. Engage. Tag @codercops in your posts. Build in public.**
+
+---
+
+### **🔥 First Steps RIGHT NOW:**
+
+1. ✅ **Join Discord:** https://discord.gg/9eFXYntYa8
+2. ✅ **Introduce yourself** in #introductions (if channel exists)
+3. ✅ **Follow @codercops** on all platforms
+4. ✅ **Post your commitment** on social media (template above)
+5. ✅ **Start Day 1** (link below)
+
+**Related Docs:**
+- 📘 [COMMUNITY.md](COMMUNITY.md) - How to engage in Discord
+- 📜 [COMMUNITY_GUIDELINES.md](COMMUNITY_GUIDELINES.md) - Server rules
+- 📊 [ACCOUNTABILITY.md](ACCOUNTABILITY.md) - Daily posting requirements
+
+---
+
 ## 📋 Overview
 
 This is a structured 100-day program designed to transform you from a Python developer into a skilled AI Engineer. The curriculum is **project-focused**, **hands-on**, and covers the **modern AI stack** used in production environments.
