@@ -34,10 +34,10 @@ day01/
 
 By the end of today, you will:
 
-- Understand NumPy arrays vs Python lists
-- Master array creation and manipulation
-- Learn vectorization for performance
-- Apply broadcasting rules
+- Understand NumPy Basics - Array Operations & Vectorization fundamentals
+- Implement NumPy Basics - Array Operations & Vectorization concepts hands-on
+- Apply knowledge to practical problems
+- Build working code examples
 
 ---
 
@@ -52,10 +52,10 @@ Before starting, ensure you understand:
 
 ## ⏱️ Time Breakdown (2-4 hours total)
 
-- **Theory & Reading:** 45 min
-- **Hands-on Practice:** 90 min
-- **Mini Project:** 45 min
-- **Review & Documentation:** 30 min
+- **Theory & Reading:** 45-60 min
+- **Hands-on Practice:** 90-120 min
+- **Mini Project/Exercises:** 30-45 min
+- **Review & Documentation:** 15-30 min
 
 *Adjust based on your pace and prior knowledge*
 
@@ -65,36 +65,31 @@ Before starting, ensure you understand:
 
 ### 📝 Must-Read Articles
 
-- [NumPy Quickstart Tutorial](https://numpy.org/doc/stable/user/quickstart.html) - Official docs
-- [NumPy for Absolute Beginners](https://numpy.org/doc/stable/user/absolute_beginners.html)
-- [Why NumPy is Fast](https://realpython.com/numpy-array-programming/)
+- [Official Documentation](https://docs.python.org/) - Core concepts
+- [Tutorial on NumPy Basics - Array Operations & Vectorization](https://realpython.com/) - Comprehensive guide
 
 ### 🎥 Video Tutorials
 
-- [NumPy Tutorial by freeCodeCamp](https://www.youtube.com/watch?v=QUT1VHiLmmI) - Comprehensive
-- [NumPy Crash Course](https://www.youtube.com/watch?v=8Y0qQEh7dJg) - 30 mins
+- [NumPy Basics - Array Operations & Vectorization Tutorial](https://www.youtube.com/) - Video explanation
 
 ### 💪 Practice Resources
 
-- [NumPy Exercises on GitHub](https://github.com/rougier/numpy-100) - 100 exercises
-- [W3Schools NumPy](https://www.w3schools.com/python/numpy/) - Interactive tutorials
-- [HackerRank Python Practice](https://www.hackerrank.com/domains/python) - NumPy challenges
-- [Kaggle Learn: Python](https://www.kaggle.com/learn/python) - Interactive course
+- [Practice Problems](https://www.hackerrank.com/) - Hands-on exercises
+- [Kaggle Tutorials](https://www.kaggle.com/learn) - Interactive learning
 
 ### 🎮 Interactive Platforms
 
-- [Google Colab NumPy Tutorial](https://colab.research.google.com) - Free GPU notebooks
-- [DataCamp NumPy Course](https://www.datacamp.com/courses/intro-to-python-for-data-science) - Interactive
-- [Exercism Python Track](https://exercism.org/tracks/python) - Mentored exercises
+- [Google Colab](https://colab.research.google.com) - Free GPU notebooks
+- [Jupyter Notebooks](https://jupyter.org/) - Interactive coding
 
 ---
 
 ## 🔑 Key Concepts
 
-- **ndarray: N-dimensional array object**
-- **Vectorization: Operations on entire arrays**
-- **Broadcasting: Operations on arrays of different shapes**
-- **Indexing & Slicing: Accessing array elements**
+- **NumPy Basics - Array Operations & Vectorization - Core principles**
+- **NumPy Basics - Array Operations & Vectorization - Best practices**
+- **NumPy Basics - Array Operations & Vectorization - Common applications**
+- **NumPy Basics - Array Operations & Vectorization - Implementation details**
 
 ---
 
@@ -116,17 +111,16 @@ Before starting, ensure you understand:
 
 ### 3. 🚀 Mini Project
 
-**Build:** Image Filter Using NumPy
+**Build:** NumPy Basics - Array Operations & Vectorization - Practical Implementation
 
-Create basic image filters (grayscale, blur, edge detection) using only NumPy array operations. No image libraries allowed!
+Build a practical project applying NumPy Basics - Array Operations & Vectorization concepts learned today.
 
 **Requirements:**
 
-- Load image as NumPy array
-- Implement grayscale conversion
-- Create a blur filter using convolution
-- Apply edge detection
-- Save filtered images
+- Implement core functionality
+- Test with real data
+- Document your code
+- Create examples/demos
 
 ### 4. 📝 Documentation
 
@@ -139,10 +133,10 @@ Create basic image filters (grayscale, blur, edge detection) using only NumPy ar
 
 ## ⚠️ Common Pitfalls to Avoid
 
-❌ Using Python loops instead of vectorization
-❌ Forgetting array shapes cause dimension errors
-❌ Not understanding view vs copy
-❌ Mixing Python lists with NumPy arrays
+❌ Skipping fundamentals and jumping ahead
+❌ Not testing code with different inputs
+❌ Copy-pasting without understanding
+❌ Ignoring error messages
 
 ---
 
@@ -150,10 +144,10 @@ Create basic image filters (grayscale, blur, edge detection) using only NumPy ar
 
 You've successfully completed Day 1 if:
 
-- Can create arrays using multiple methods
-- Can explain vectorization benefits
-- Can apply broadcasting rules correctly
-- Mini project runs and produces correct output
+- Can explain NumPy Basics - Array Operations & Vectorization concepts clearly
+- Successfully completed all exercises
+- Code works correctly with test cases
+- Can modify code for new requirements
 
 **See [QUALITY_STANDARDS.md](../../QUALITY_STANDARDS.md) for detailed completion criteria.**
 
