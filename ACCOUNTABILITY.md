@@ -18,7 +18,7 @@ Research shows:
 
 **That's why you MUST:**
 
-✅ Post daily in Discord #100daysofaiengineer
+✅ Run `/checkin` daily in Discord (it logs your day in #100daysofaiengineer and tracks your streak)
 ✅ Share on social media with #100DaysOfAIEngineer
 ✅ Commit code to GitHub daily
 ✅ Complete weekly check-ins
@@ -89,7 +89,7 @@ I commit to:
 ### **Every Single Day You MUST:**
 
 #### 1. **Discord Post** (Required - 5 min)
-Post in #100daysofaiengineer:
+Run `/checkin` and pick **100 Days of AI Engineer**. Then post this in your log thread in #100daysofaiengineer:
 
 ```
 

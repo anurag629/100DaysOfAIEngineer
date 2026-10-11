@@ -14,16 +14,19 @@ All accountability, support, and community interaction happens in the **CODERCOP
 
 ### **What's in the Discord:**
 
-#### 📢 **#100daysofaiengineer** Channel
+#### ✅ **`/checkin`** Command
 
-- Daily check-ins and progress updates
+- Run it every day and pick "100 Days of AI Engineer"
+- The bot opens a log thread with your name on it in #100daysofaiengineer
+- Every check-in is added to that thread, along with your streak
+- `/streaks` shows who's on a roll
+
+#### 💬 **#100daysofaiengineer** Forum
+
+- Your daily log thread
 - Quick questions and answers
 - Wins and struggles
 - Motivation and encouragement
-- Real-time community support
-
-#### 💬 **100daysofaiengineer** Forum
-
 - Long-form questions and discussions
 - Project showcases
 - Code reviews
@@ -38,6 +41,7 @@ All accountability, support, and community interaction happens in the **CODERCOP
 - #job-hunting - Career advice and job search support
 - #showcase - Share your completed projects
 - #hall-of-fame - Recognize 100-day graduates
+- #roadmaps - How check-ins work, and the other CODERCOPS roadmaps
 
 ---
 
@@ -89,7 +93,7 @@ Hold me accountable! 💪
 ```
 
 ### 4️⃣ **Set Up Daily Check-in Habit**
-Every day, post in **#100daysofaiengineer**:
+Every day, run `/checkin`, then post this in your log thread in **#100daysofaiengineer**:
 
 ```
 

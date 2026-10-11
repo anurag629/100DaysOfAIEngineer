@@ -174,8 +174,9 @@ Fork this repo. Share your commitment. Begin.
 - ✅ **Peer pressure (the good kind)** - Your streak is PUBLIC
 
 **📢 Key Channels:**
-- **#100daysofaiengineer** - Daily check-ins and quick updates
-- **100daysofaiengineer forum** - Project showcases, code reviews, detailed discussions
+- **`/checkin`** - Run it EVERY DAY and pick "100 Days of AI Engineer". The bot logs your day in your own thread and tracks your streak
+- **#100daysofaiengineer forum** - Your log thread, plus project showcases, code reviews and detailed discussions
+- **#roadmaps** - How check-ins work, and the other CODERCOPS roadmaps
 
 **📅 What You'll Post Daily:**
 ```
@@ -207,10 +208,10 @@ Progress: [What you built]
 ### **🔥 First Steps RIGHT NOW:**
 
 1. [ ] **Join Discord:** https://discord.gg/9eFXYntYa8
-2. [ ] **Introduce yourself** in #introductions (if channel exists)
+2. [ ] **Introduce yourself** in #introductions
 3. [ ] **Follow @CODERCOPS** on all platforms
 4. [ ] **Post your commitment** on social media (template above)
-5. [ ] **Start Day 1** (link below)
+5. [ ] **Start Day 1** (link below), then run `/checkin` in Discord
 
 **Related Docs:**
 - 📘 [COMMUNITY.md](COMMUNITY.md) - How to engage in Discord

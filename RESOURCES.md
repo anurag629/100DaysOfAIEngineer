@@ -21,8 +21,8 @@ A curated list of the best resources for your 100-day journey.
 - ✅ **Job opportunities** - Members share openings
 
 **Key Channels:**
-- `#100daysofaiengineer` - Daily updates and quick questions
-- `100daysofaiengineer forum` - Project showcases and detailed discussions
+- `/checkin` - Log each day and keep your streak
+- `#100daysofaiengineer` forum - Your log thread, quick questions, project showcases and detailed discussions
 - Weekly code review sessions
 - Monthly graduation ceremonies
 
